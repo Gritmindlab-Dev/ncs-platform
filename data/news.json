@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T12:59:37.558063+00:00",
+  "generatedAt": "2026-10-12T06:07:45.808660+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1040,
+  "itemCount": 1050,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -463,6 +463,115 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-12",
+      "title": "--> 서울발 ‘동대구행’ KTX 막차 ‘서대구역’까지 단축 운행 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=MWHrZSOS5ebupH7iAiqZKMaKqN4fDaFzZyMSbPx6FnRirAkqTvnJaS2jW5W9NmY2?key=911&bbsNo=199&nttNo=27408&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-10-12",
+      "title": "--> 보도 한국수력원자력, 합천황토한우축제에서 양수발전 홍보 한국수력원자력, 합천황토한우축제에서 양수발전 홍보 - 양수건설처, 홍보부스 운영하며 군민·관광객과 소통 - 한국수력원자력(사장 김회천, 이하 한수원) 양수건설처가 9일 경남 합천군에서 열린 제4회 합천황토한우축제에 참여해 합천양수발전소 건설사업을 알리고 지역주민과 소통했다. 한수원은 2025년 합천양수준비팀 발족 이후 지역의 주요 행사에 지속적으로 참여하며 군민들과 소통을... 작성일 : 2026-10-12",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77207&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "국민건강보험공단, 내 주변 간호·간병통합서비스 병원 찾기 쉬워진다!",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014159&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "캠코, 국유 비상장증권 49개 기업 3,692억원 규모 공매 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29005&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-12",
+      "title": "한전KPS, ‘윤리를 묻고, 소통으로 답하다’ 윤리경영 실천 다짐 새 글 2026-10-12",
+      "url": "https://www.kps.co.kr/web/Board/47675/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "전기안전공사-LS일렉트릭, 풍력발전설비 안전관리 기술 개발 협력",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172070&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "“임산물에 산림복지를 더하다”, 임업인 소득창출 지원",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9245",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "“수능생 숲으로 모여라” 산림복지진흥원, 수험생 대상 숙박요금 할인",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9244",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "강원특별자치도 장애인 표준사업장 생산품 박람회 개최",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=216814",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국철도공사",
       "type": "공기업",
@@ -1023,6 +1132,18 @@
       "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=28965&mId=0701030000&ptIdx=282",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-07",
+      "title": "한전KPS “AI감사 부작용 AI로 막는다”…방어막 구축 추진 새 글 2026-10-07",
+      "url": "https://www.kps.co.kr/web/Board/47674/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
       "tags": [
         "보도자료"
       ]

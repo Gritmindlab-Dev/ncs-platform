@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T06:07:45.808660+00:00",
+  "generatedAt": "2026-10-12T15:34:39.809889+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1050,
+  "successfulAgencyCount": 19,
+  "itemCount": 1054,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -566,6 +566,54 @@
       "date": "2026-10-12",
       "title": "강원특별자치도 장애인 표준사업장 생산품 박람회 개최",
       "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=216814",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-10-12",
+      "title": "(10.12) KOEN 한국남동발전, 이현빈 사장 취임 후 첫 현장 경영...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64207",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-10-12",
+      "title": "(10.07) KOEN 한국남동발전, 전기연구원과 미래형 공중풍력발전 기...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64206",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "캠코, 국유 비상장증권 49개 기업 3,692억원 규모 공매",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29005&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-10-12",
+      "title": "장애인 ‘AI·디지털 튜터’ 직업영역 개발 박차, 장애인 전문 기관 3곳 힘 모은다",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=216819",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kead.or.kr",
       "tags": [

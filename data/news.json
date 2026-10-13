@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T06:56:50.348569+00:00",
+  "generatedAt": "2026-10-13T19:24:42.213191+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 17,
-  "itemCount": 1063,
+  "successfulAgencyCount": 18,
+  "itemCount": 1070,
   "health": [
     {
       "agency": "한국전력공사",
@@ -119,7 +119,7 @@
     {
       "agency": "기술보증기금",
       "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "message": "GET 실패: <urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -549,6 +549,79 @@
       "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9250",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "코트라, 롯데홈쇼핑과 파리 마레지구서 K-뷰티 팝업 로스앤젤레스(LA) 22만...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29581",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "유럽연합(EU) 포장재 규정, 유럽 21개국별 수출기업 대응법 한눈에【10.1...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29580",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "K-진단의료 32개사, 남아공 거점, 아프리카 시장 겨냥 코트라, 아프리카 최...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29578",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "심평원 울산경남본부, 장애인과 함께하는 ‘우리동네 온(溫)마을 만들기’ 참여",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11937&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "심평원 인천본부, 다문화 가정 아동 위한 건강·환경교육 실시",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11936&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "공무원연금공단 김우호 이사장, 취임 후 첫 공식 일정으로 국립제주호국원·제주4·3평화공원 참배",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43371?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1292,6 +1365,18 @@
       "type": "공기업",
       "date": "2026-10-07",
       "title": "한전KPS “AI감사 부작용 AI로 막는다”…방어막 구축 추진 새 글 2026-10-07",
+      "url": "https://www.kps.co.kr/web/Board/47674/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-07",
+      "title": "한전KPS “AI감사 부작용 AI로 막는다”…방어막 구축 추진 2026-10-07",
       "url": "https://www.kps.co.kr/web/Board/47674/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",

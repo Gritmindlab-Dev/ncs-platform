@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T05:02:46.432994+00:00",
+  "generatedAt": "2026-10-14T12:00:21.381220+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1074,
+  "successfulAgencyCount": 19,
+  "itemCount": 1078,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 8
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -512,6 +512,30 @@
       ]
     },
     {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-14",
+      "title": "기보, 부실채권 정리-재기지원 확대로 포용금융 강화",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=66915&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-10-14",
+      "title": "공무원연금공단, 서귀포 전통시장·올레길서 폐현수막 새활용 사회공헌활동 실시",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43373?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-10-13",
@@ -670,6 +694,30 @@
       "url": "https://www.geps.or.kr/notiCommunication_news/43371?curPage=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "기보, 연구개발특구진흥재단과 공공기술 사업화 촉진 협력",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=66914&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-13",
+      "title": "기보, 유암코와 구조조정기업 재도약 위한 기술평가 협력",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=66887&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
       "tags": [
         "보도자료"
       ]

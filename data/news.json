@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T12:00:21.381220+00:00",
+  "generatedAt": "2026-10-14T17:17:51.084069+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 19,
-  "itemCount": 1078,
+  "itemCount": 1080,
   "health": [
     {
       "agency": "한국전력공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 8
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -531,6 +531,30 @@
       "url": "https://www.geps.or.kr/notiCommunication_news/43373?curPage=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-14",
+      "title": "K-인프라, ‘건설’ 넘어 ‘첨단 기술’로 아세안 진출【10.14.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29612",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-14",
+      "title": "반도체부터 로봇까지, 산업 인공지능 생태계 잇는「K-커넥트 AI」개막 4주간 ...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29610",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]

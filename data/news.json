@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T04:49:10.297984+00:00",
+  "generatedAt": "2026-10-15T11:37:41.037824+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1083,
+  "itemCount": 1089,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 6
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",
@@ -495,6 +495,69 @@
       "url": "https://knto.or.kr/pressRelease/550870?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-15",
+      "title": "한국수자원공사, 온라인 ‘로컬마켓’ 통해 전국 댐 주변...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141088&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "국민건강보험공단, 폐암 발생부터 치료·생존율까지 18년간 변화 한눈에",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014299&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "[설명자료] 지역인재장학금의 지역별 수혜율 보도 관련 2026.10.15.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21385&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료",
+        "인재"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "교육부-전기안전공사, 학교 태양광 안전관리 힘 모은다",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172083&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "교육",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "한국장애인고용공단, ‘AI 기반 고용장려금 자동처리 체계’ 추진",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=216904",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1270,6 +1333,18 @@
         "보도자료",
         "청년",
         "인재"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-08",
+      "title": "--> 코레일, 고속철도 통합 첫 달 936만명 이용…전년 대비 12%↑",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=YDeoN1WmrfaDJb2K5xY1yFNiJQKNZZqqs50dgukn772TDZqZTgYkO9ematvpoN3v?key=911&bbsNo=199&nttNo=27403&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
       ]
     },
     {

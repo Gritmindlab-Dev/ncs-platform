@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T11:37:41.037824+00:00",
+  "generatedAt": "2026-10-15T17:10:06.416176+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1089,
+  "itemCount": 1093,
   "health": [
     {
       "agency": "한국전력공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국가스안전공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 6
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 15
     },
     {
       "agency": "한국광해광업공단",
@@ -558,6 +558,55 @@
       "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=216904",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "60개국 구매처 220개사 한자리에, K-뷰티 인기 실감【10.15.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29620",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "코트라-제약바이오협회, 제약 바이오 해외진출 협력 업무협약 체결 K-제약바이오...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29619",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "실리콘밸리가 주목한 스타트업 한국관 북미 최대 스타트업 전시회에서 관심 쏟아져...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29618",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "한-중앙아 비즈니스 파트너십 이행 위해 유럽부흥개발은행, 주한외국공관도 협력【...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29617",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]

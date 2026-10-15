@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T17:17:51.084069+00:00",
+  "generatedAt": "2026-10-15T04:49:10.297984+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1080,
+  "successfulAgencyCount": 18,
+  "itemCount": 1083,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -463,6 +463,42 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-15",
+      "title": "--> 코레일 “지역사랑 철도여행, 올해 23만 명 떠났다” 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=9umLXA1jWCj875bm9K1tjdLpVzwjIAa9sTOM1jcxQo5mvz08T0wg76nCPvrOu67x?key=911&bbsNo=199&nttNo=27415&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "한국 여행에 공연을 더하다...한국관광공사, ‘코리아 인 모션’ 캠페인 개최",
+      "url": "https://knto.or.kr/pressRelease/550871?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "한국관광공사, ‘지역관광 부스터’로 인구감소지역에 활력을 더한다",
+      "url": "https://knto.or.kr/pressRelease/550870?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",

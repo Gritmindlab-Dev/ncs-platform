@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T04:41:03.432623+00:00",
+  "generatedAt": "2026-10-16T11:31:58.015929+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1099,
+  "successfulAgencyCount": 19,
+  "itemCount": 1104,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 8
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -529,6 +529,54 @@
     {
       "agency": "한국철도공사",
       "type": "공기업",
+      "date": "2026-10-16",
+      "title": "--> 코레일, 대전역에서 몸짓으로 전하는 ‘특별한 마임여행’ 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=B1q5YaQcP9dt73t3Ntlo7bR9QV8KDms72Yk3KunVCWS823VATNMtLIsDFWWSG53A?key=911&bbsNo=199&nttNo=27420&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "예금보험공사",
+      "type": "기타공공기관",
+      "date": "2026-10-16",
+      "title": "예보, 네이버클라우드와 생성형 AI 기반 대국민 서비스 혁신 '맞손'",
+      "url": "https://www.kdic.or.kr/di/medi/selectPbcrBbsDtl.do?bbsSeCd=bodo&cdVl=bodo&pstNo=60317",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kdic.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-16",
+      "title": "캠코, ‘나라키움 세종국책연구단지’서 물 절약 시범사업 추진 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29066&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-16",
+      "title": "(보도설명사료)근로자 ‘쪼개기 계약’ 꼼수라는 주장 보도는 사실과 다릅니다 새 글 2026-10-16",
+      "url": "https://www.kps.co.kr/web/Board/47689/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
       "date": "2026-10-15",
       "title": "--> 코레일 “지역사랑 철도여행, 올해 23만 명 떠났다” 새글",
       "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=9umLXA1jWCj875bm9K1tjdLpVzwjIAa9sTOM1jcxQo5mvz08T0wg76nCPvrOu67x?key=911&bbsNo=199&nttNo=27415&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
@@ -682,6 +730,18 @@
       "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29065&mId=0701030000&ptIdx=282",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-15",
+      "title": "한전KPS-신보, 협력사․지역中企 동반성장 지원 MOU 새 글 2026-10-15",
+      "url": "https://www.kps.co.kr/web/Board/47688/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
       "tags": [
         "보도자료"
       ]

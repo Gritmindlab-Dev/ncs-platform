@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T11:14:18.091738+00:00",
+  "generatedAt": "2026-10-18T15:58:41.223319+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1109,
+  "successfulAgencyCount": 18,
+  "itemCount": 1110,
   "health": [
     {
       "agency": "한국전력공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",
@@ -1257,6 +1257,18 @@
       "tags": [
         "보도자료",
         "안전"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-12",
+      "title": "한전KPS, ‘윤리를 묻고, 소통으로 답하다’ 윤리경영 실천 다짐 2026-10-12",
+      "url": "https://www.kps.co.kr/web/Board/47675/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
       ]
     },
     {

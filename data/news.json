@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T04:49:09.212282+00:00",
+  "generatedAt": "2026-10-19T13:25:47.172630+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1121,
+  "successfulAgencyCount": 19,
+  "itemCount": 1124,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 6
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -579,6 +579,42 @@
       "url": "https://knto.or.kr/pressRelease/550874?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-10-19",
+      "title": "--> 보도 한국수력원자력, 외투 한 벌에 온기를 담아…‘첫겨울 나눌래옷’ 캠페인 펼쳐 한국수력원자력, 외투 한 벌에 온기를 담아…‘첫겨울 나눌래옷’ 캠페인 펼쳐 - 임직원들의 자발적인 의류 기부로 외국인 이웃의 첫 겨울나기 응원 - 한국수력원자력(사장 김회천, 이하 한수원)이 한국에서 첫겨울을 맞는 외국인 이웃들을 위해 겨울 의류 나눔 캠페인 ‘첫겨울 나눌래옷’을 시행했다. 이번 캠페인은 한국의 추운 겨울이 낯선 외국인 이웃들이 따뜻한 겨울을 보낼 수 ... 작성일 : 2026-10-19",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77345&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-10-19",
+      "title": "공무원연금공단 대구지부, 털목도리 나눔으로 농촌 어르신에 온정 전해",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43431?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-10-19",
+      "title": "2026년 하반기 장애인경제활동실태조사 실시",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=216974",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
       "tags": [
         "보도자료"
       ]

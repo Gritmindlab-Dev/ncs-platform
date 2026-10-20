@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T11:45:31.781789+00:00",
+  "generatedAt": "2026-10-20T17:15:11.447782+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 19,
-  "itemCount": 1136,
+  "itemCount": 1140,
   "health": [
     {
       "agency": "한국전력공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 6
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -556,6 +556,54 @@
       "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11944&pageIndex=1&pageIndex2=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-20",
+      "title": "K-소비재, 현지 대형 유통망 타고 중국 지역 진출 확대【10.20.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29634",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-20",
+      "title": "중국 중앙·지방 31개 정부 미래산업 청사진 분석 첨단 소·부·장 수요, 중서...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29633",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-20",
+      "title": "할랄 시장도 반한 한우… 카타르 첫 정식 수출【10.20.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29632",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-20",
+      "title": "더우인·푸싱 등 중국 구매기업 10개사, 한국 소비재 찾아 지역으로 대구 이어...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29631",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]

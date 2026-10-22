@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T12:01:49.855651+00:00",
+  "generatedAt": "2026-10-22T17:18:40.446706+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1171,
+  "successfulAgencyCount": 19,
+  "itemCount": 1175,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 7
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -569,6 +569,42 @@
       "url": "https://www.geps.or.kr/notiCommunication_news/43378?curPage=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "일본 자동차 전장부품 수요 쑥쑥 2026~27년이 공급망 진입 ‘골든타임’【...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29648",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "글로벌 인공지능·제조 혁신 리더 ‘K 커넥트 AI’「맥스콘」집결 “자동화 넘어...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29647",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "코트라, ‘국제치안산업대전 수출상담회’ 개최 인공지능·로보틱스 결합 K-치안 ...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29646",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1318,6 +1354,18 @@
       "type": "공기업",
       "date": "2026-10-16",
       "title": "(보도설명자료)근로자 ‘쪼개기 계약’ 꼼수라는 주장 보도는 사실과 다릅니다 새 글 2026-10-16",
+      "url": "https://www.kps.co.kr/web/Board/47689/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-16",
+      "title": "(보도설명자료)근로자 ‘쪼개기 계약’ 꼼수라는 주장 보도는 사실과 다릅니다 2026-10-16",
       "url": "https://www.kps.co.kr/web/Board/47689/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",

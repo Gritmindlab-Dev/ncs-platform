@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T04:57:18.655841+00:00",
+  "generatedAt": "2026-10-22T12:01:49.855651+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1166,
+  "itemCount": 1171,
   "health": [
     {
       "agency": "한국전력공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 7
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -508,6 +508,67 @@
       "url": "https://knto.or.kr/pressRelease/550885?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-22",
+      "title": "--> “운전은 쉬고, 가을은 즐기고”…코레일과 떠나는 지역축제 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=W1ZRiSNPm61UqfCM5tQlt0CfWFjC71is9w2UUwpHxoMyMApvTxqhj6j7UAs0AWj3?key=911&bbsNo=199&nttNo=27436&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-10-22",
+      "title": "--> 보도 한국수력원자력, 청정수소 산업 실무자 대상 전문교육 시행 한국수력원자력, 청정수소 산업 실무자 대상 전문교육 시행 - 산업계 맞춤형 실증 기술 공유... 수전해 설비 운영 노하우 전수 - 한국수력원자력(사장 김회천, 이하 한수원)이 22일 대전 수소전주기연구센터에서 국내 수소 관련 기업 및 연구기관 실무자 30여 명을 대상으로 ‘제3차 청정수소 생산 실무교육’을 시행했다. 이번 교육은 국내 수소 산업 현장에서 일하는 실무자들의 기술 역량을 높이고, 공기업으로... 작성일 : 2026-10-22",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77387&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "국민건강보험공단, 세계보건기구(WHO) 사무총장과 보건협력 강화 논의",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014465&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "심평원, ‘2026년 진료협력 우수사례 공모전’ 개최",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11946&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "공무원연금공단 서울지부, 국립서울현충원서 봉사활동 실시",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43378?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]

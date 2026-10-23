@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T17:18:40.446706+00:00",
+  "generatedAt": "2026-10-23T05:01:56.097626+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1175,
+  "successfulAgencyCount": 16,
+  "itemCount": 1177,
   "health": [
     {
       "agency": "한국전력공사",
@@ -143,8 +143,8 @@
     },
     {
       "agency": "대한무역투자진흥공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -178,8 +178,8 @@
     },
     {
       "agency": "공무원연금공단",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "정보통신기획평가원",
@@ -219,7 +219,7 @@
     {
       "agency": "한국해양교통안전공단",
       "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한전KDN",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",
@@ -463,6 +463,19 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-23",
+      "title": "전기안전공사, AI 활용해 전력망 확충 부담 줄일 기술 연구 나선다",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172103&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
     {
       "agency": "국민건강보험공단",
       "type": "준정부기관",
@@ -1371,6 +1384,19 @@
       "officialDomain": "kps.co.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-16",
+      "title": "--> 코레일, 비상임이사와 청년이사 소통간담회 개최",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=XT9eXsDU2iPwzvxZl7TicaL17zbsD1hrMSDh6gXqgsBgVxvGT5vUyNcI8iKfFlPk?key=911&bbsNo=199&nttNo=27418&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료",
+        "청년"
       ]
     },
     {

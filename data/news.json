@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T05:01:56.097626+00:00",
+  "generatedAt": "2026-10-23T11:47:29.817904+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 16,
-  "itemCount": 1177,
+  "successfulAgencyCount": 19,
+  "itemCount": 1182,
   "health": [
     {
       "agency": "한국전력공사",
@@ -143,8 +143,8 @@
     },
     {
       "agency": "대한무역투자진흥공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 9
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -178,8 +178,8 @@
     },
     {
       "agency": "공무원연금공단",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "정보통신기획평가원",
@@ -219,7 +219,7 @@
     {
       "agency": "한국해양교통안전공단",
       "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한전KDN",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 15
     },
     {
       "agency": "한국광해광업공단",
@@ -474,6 +474,54 @@
       "tags": [
         "보도자료",
         "안전"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-23",
+      "title": "--> 코레일 서울역 ‘플랫폼 111’, 공공디자인대상 수상 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=kFzMHGR0bY1mFryau9tqZgNXI2pvTHy50pwQ4iuAKA99G2bETGewcJnGRqj8y54D?key=911&bbsNo=199&nttNo=27437&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-23",
+      "title": "심평원 제주본부, 도서지역 취약계층 건강 돌봄 지원",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11947&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-23",
+      "title": "이번 주말, K-공연부터 K-드라마까지... 하이커 그라운드에서 즐기세요",
+      "url": "https://knto.or.kr/pressRelease/550891?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-23",
+      "title": "관광벤처의 혁신, 성수에서 만나고 투자로 이어지다",
+      "url": "https://knto.or.kr/pressRelease/550890?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
       ]
     },
     {
@@ -1397,6 +1445,18 @@
       "tags": [
         "보도자료",
         "청년"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-16",
+      "title": "--> 코레일, 대전역에서 몸짓으로 전하는 ‘특별한 마임여행’",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=kFzMHGR0bY1mFryau9tqZgNXI2pvTHy50pwQ4iuAKA99G2bETGewcJnGRqj8y54D?key=911&bbsNo=199&nttNo=27420&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
       ]
     },
     {

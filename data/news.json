@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:10:54.977226+00:00",
+  "generatedAt": "2026-10-24T16:06:22.025014+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
@@ -88,8 +88,8 @@
     },
     {
       "agency": "국민건강보험공단",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "국민연금공단",
@@ -99,7 +99,7 @@
     {
       "agency": "근로복지공단",
       "status": "error",
-      "message": "GET 실패: HTTP Error 400: Bad Request"
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국산업인력공단",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",

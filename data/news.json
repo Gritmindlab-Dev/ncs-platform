@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T16:30:38.797214+00:00",
+  "generatedAt": "2026-10-26T04:55:18.326214+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1183,
+  "itemCount": 1187,
   "health": [
     {
       "agency": "한국전력공사",
@@ -88,8 +88,8 @@
     },
     {
       "agency": "국민건강보험공단",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "국민연금공단",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: Remote end closed connection without response"
+      "message": "POST 실패: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",
@@ -463,6 +463,55 @@
     }
   ],
   "items": [
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-10-26",
+      "title": "HUG, 행안부 'AI 챔피언' 10명 배출... 전사 A ...",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38589&t_title=게시물 읽기 (HUG, 행안부 'AI 챔피언' 10명 배출... 전사 AX 추진 본격화)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "캠코, '마음으로 듣는 소리' 시즌13 목소리 재능기부자 모집 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29165&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "심평원, 보건의료빅데이터‧AI 활용 창업경진대회 수상팀과 ‘KIMES BUSAN 2026’ 참여",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11949&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "심평원 경기남부본부, 장애 청소년의 구강건강 안전망 구축을 위한 ‘SMILE GATE’ 추진",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11948&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
     {
       "agency": "한국전기안전공사",
       "type": "준정부기관",

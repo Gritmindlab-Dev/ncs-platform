@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T13:15:17.847342+00:00",
+  "generatedAt": "2026-10-27T05:17:14.013476+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 17,
-  "itemCount": 1195,
+  "itemCount": 1210,
   "health": [
     {
       "agency": "한국전력공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 6
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -464,6 +464,116 @@
   ],
   "items": [
     {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "한국수자원공사, ‘2026 대한민국 SNS 대상’ 공공...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141115&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "한국수자원공사, 베트남에 제2호 AI 정수장 기술수출",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141114&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "--> 코레일, 정시운행·상생 지원으로 철도물류 활성화 가속 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=iHpSawbD8v47nHXPYSSro5hvyqPam1JzJlOZGHUEkNN5Fp0FTkMGMuJfqogmRSE7?key=911&bbsNo=199&nttNo=27449&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "(10.26) KOEN 한국남동발전, 유럽 최대 HRD시상식 ‘2026 ...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64231",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "(10.26) KOEN 한국남동발전, 국민과 함께 공공 AX 혁신 아이디...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64230",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "(10.26) KOEN 한국남동발전, 이도테라원과 ′인천에코윈드 해상풍력...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64229",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "[보도자료] 한국장학재단 서울청년창업센터 입주기업 그리닝, 스킨케어 제품으로 2026 K-뷰티엑스포 대만 현지 시장 공략 2026.10.27.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21442&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료",
+        "청년"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "한국전기안전공사·한성대, 대학생과 ESG 아이디어 모색",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172118&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "한국관광공사, 첫 ‘하이커 미디어 아트 공모전’…수상작 8편 선정",
+      "url": "https://knto.or.kr/pressRelease/550896?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "주택도시보증공사",
       "type": "공기업",
       "date": "2026-10-26",
@@ -615,6 +725,55 @@
       ]
     },
     {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "체코 완성차 스코다 공급망 다변화 수요, K부품 수출 기회 유럽연합(EU) 3...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29657",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "인베스트 코리아, 반도체 공급망 강화 성과로 투자유치 세계 최고 권위 '유엔 ...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29656",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "코트라, 커지는 유럽 방산 공급망 확대 나서 독일 엠비디에이(MBDA) 방한 ...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29655",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "청년과 함께 그리는 K-수출의 미래... 산업부·코트라, 자유무역협정 인력 양...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29654",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료",
+        "청년"
+      ]
+    },
+    {
       "agency": "한국전기안전공사",
       "type": "준정부기관",
       "date": "2026-10-23",
@@ -685,6 +844,19 @@
       "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-23",
+      "title": "전기안전공사, 인공지능？？ 활용해 전력망 확충 부담 줄일 기술 연구 나선다",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172103&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {
@@ -1206,6 +1378,18 @@
       "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29631",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-20",
+      "title": "--> 코레일, 아시아개발은행ADB 과 첫 국제연수 진행",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=iHpSawbD8v47nHXPYSSro5hvyqPam1JzJlOZGHUEkNN5Fp0FTkMGMuJfqogmRSE7?key=911&bbsNo=199&nttNo=27428&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

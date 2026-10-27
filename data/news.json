@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T12:20:58.460081+00:00",
+  "generatedAt": "2026-10-27T18:09:21.783034+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1218,
+  "successfulAgencyCount": 18,
+  "itemCount": 1222,
   "health": [
     {
       "agency": "한국전력공사",
@@ -84,7 +84,7 @@
     {
       "agency": "한국중부발전",
       "status": "error",
-      "message": "GET 실패: HTTP Error 404: "
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "국민건강보험공단",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 7
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -619,6 +619,54 @@
       "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29174&mId=0701030000&ptIdx=282",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "캠코, 아시아 금융당국에 부실채권 정리 경험 공유",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29174&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "코트라, 내수·초보기업 300개사의 ‘첫 수출길’ 동행【10.27.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29662",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "라오스 식탁 파고든 한국식품…라면·떡볶이서 건기식·음료로 확산 농식품부·코트라...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29661",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "코트라 등 6개 공공기관, 해외 조직망 청렴·윤리경영 위해 맞손 기관별 해외 ...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29660",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]

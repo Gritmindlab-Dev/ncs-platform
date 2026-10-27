@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T05:17:14.013476+00:00",
+  "generatedAt": "2026-10-27T12:20:58.460081+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 17,
-  "itemCount": 1210,
+  "successfulAgencyCount": 19,
+  "itemCount": 1218,
   "health": [
     {
       "agency": "한국전력공사",
@@ -84,7 +84,7 @@
     {
       "agency": "한국중부발전",
       "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "message": "GET 실패: HTTP Error 404: "
     },
     {
       "agency": "국민건강보험공단",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 7
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+      "message": "POST 실패: HTTP Error 415: "
     },
     {
       "agency": "한국산림복지진흥원",
@@ -574,6 +574,56 @@
       ]
     },
     {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "한국수자원공사, AI·기후테크 오픈이노베이션 과제 협약...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141118&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-10-27",
+      "title": "--> 보도 고리3,4호기 계속운전 운영변경허가 동시 승인 고리3,4호기 계속운전 운영변경허가 동시 승인 - 2027년 상반기 순차 재가동 목표, “안전 최우선으로 계속운전에 최선 다할 것”- 한국수력원자력(사장 김회천, 이하 한수원)이 27일 원자력안전위원회로부터 고리3,4호기 계속운전을 위한 운영변경허가를 동시에 승인받았다. 이번 승인은 고리3,4호기가 계속운전에 필요한 안전기준과 요건을 충족했음을 확인한 것으로 의미가 크다. 이에 따라 고리3호기는 2034년 9월, 고리... 작성일 : 2026-10-27",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77470&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "기보,경북창조경제혁신센터와 지역 창업기업 육성 위해 맞손",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67254&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "캠코, 아시아 금융당국에 부실채권 정리 경험 공유 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29174&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "주택도시보증공사",
       "type": "공기업",
       "date": "2026-10-26",
@@ -771,6 +821,30 @@
       "tags": [
         "보도자료",
         "청년"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "기보, 미래기술 체험과 아이디어 발굴 통해 조직 혁신역량 강화",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67253&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-26",
+      "title": "캠코, '마음으로 듣는 소리' 시즌13 목소리 재능기부자 모집",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29165&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
       ]
     },
     {
@@ -1001,6 +1075,30 @@
       "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29646",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "기보, 호남지역 Kibo-Star밸리기업 (주)비온시이노베이터 방문",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67252&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-22",
+      "title": "권형택 기보 이사장, 취임 100일 맞아 새로운 도약 추진",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67251&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
       "tags": [
         "보도자료"
       ]

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T18:09:21.783034+00:00",
+  "generatedAt": "2026-10-28T05:50:18.405425+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1222,
+  "successfulAgencyCount": 19,
+  "itemCount": 1231,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -463,6 +463,92 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "한국수자원공사, 마이크로소프트와 수도권·부산 물 복원 ...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141121&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "주택도시보증공사, 강원랜드와 AI감사 및 내부통제 고도화를 위한 협약 체결",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38608&t_title=게시물 읽기 (주택도시보증공사, 강원랜드와 AI감사 및 내부통제 고도화를 위한 협약 체결)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "국민건강보험공단, 요양급여내역 정보로 복지 필요한 국민 더 촘촘히 찾는다",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014573&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "한국전기안전공사, AI 혁신 성과 잇따라 장관상 수상",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172120&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "심평원 강원본부, 강원도립대학교와 지역 하천 환경보호 활동 실천",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11950&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "공무원연금공단 서울지부 서울상록하이스쿨봉사단, '서울특별시 봉사상' 최우수상 수상",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43612?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "한국관광공사, AI 서비스 '닥터라즈·라즈주임' 과학기술혁신대상 통합 대상 수상",
+      "url": "https://knto.or.kr/pressRelease/550901?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",
@@ -982,6 +1068,19 @@
       ]
     },
     {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-23",
+      "title": "전기안전공사, 인공지능 활용해 전력망 확충 부담 줄일 기술 연구 나선다",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172103&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
       "agency": "국민건강보험공단",
       "type": "준정부기관",
       "date": "2026-10-22",
@@ -1379,6 +1478,18 @@
       "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29105&mId=0701030000&ptIdx=282",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-21",
+      "title": "--> 코레일, 고속철도 통합 후 첫 종합훈련…현장 대응력 높인다",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=FmKs7ODlzIm6Z3mlR1Ub4YDvcKU6Wt3EpZcDV1y3wSmKkPjwT9iftw1NTenNIC1K?key=911&bbsNo=199&nttNo=27430&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

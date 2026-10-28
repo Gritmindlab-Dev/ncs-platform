@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T05:50:18.405425+00:00",
+  "generatedAt": "2026-10-28T13:03:09.027472+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1231,
+  "successfulAgencyCount": 18,
+  "itemCount": 1235,
   "health": [
     {
       "agency": "한국전력공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",
@@ -545,6 +545,55 @@
       "url": "https://knto.or.kr/pressRelease/550901?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "한국수자원공사, 안동댐 50년 넘어 미래 100년 연다...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141125&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "--> 코레일-한국에너지공단, 감사역량 고도화 업무협약 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=SFKQZlay1tu14R8Razc6z6VKfQHw18Ekpl3lxf7YYa2j6MYITnBsoidbVcISUn1E?key=911&bbsNo=199&nttNo=27456&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "(10.28) KOEN 한국남동발전, 경남 진주 혁신도시 5개 기관과 감...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64233",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국석유공사",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "[보도자료] 한국석유공사, 국내 자원개발 생태계 활성화..",
+      "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1006&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knoc.co.kr",
       "tags": [
         "보도자료"
       ]

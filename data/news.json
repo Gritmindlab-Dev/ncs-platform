@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T13:03:09.027472+00:00",
+  "generatedAt": "2026-10-29T05:56:08.186417+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1235,
+  "successfulAgencyCount": 19,
+  "itemCount": 1250,
   "health": [
     {
       "agency": "한국전력공사",
@@ -169,7 +169,7 @@
     {
       "agency": "한국전기안전공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 9
     },
     {
       "agency": "건강보험심사평가원",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 15
     },
     {
       "agency": "한국광해광업공단",
@@ -466,6 +466,163 @@
     {
       "agency": "한국수자원공사",
       "type": "공기업",
+      "date": "2026-10-29",
+      "title": "한국수자원공사, 美 오스틴시와 AI 물관리 협력 본격화...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141126&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "--> 코레일, 국제표준 AI 경영시스템 인증 획득 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=FU32dK8IUfYJp2fh4M6E9xPyRdF0AYiT7LUa3LihwfR2gaZ2TkHy3VksSmioo1b6?key=911&bbsNo=199&nttNo=27457&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "--> 보도 한국수력원자력, 중앙연구원 연구 현장 '안전챙김 현장경영' 시행 한국수력원자력, 중앙연구원 연구 현장 '안전챙김 현장경영' 시행 - 김회천 사장, 주요 연구실 안전관리 실태 점검 - 한국수력원자력(이하 한수원) 김회천 사장이 29일 중앙연구원을 찾아 연구실 안전관리 실태를 점검하고 연구 종사자들과 소통하는 ‘안전챙김 현장경영’을 시행했다. 이번 현장경영은 연구개발 현장의 유해·위험 요인을 확인하고, 안전관리 체계가 제대로... 작성일 : 2026-10-29",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77512&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "--> 보도 한국수력원자력, 공공기관 AI 혁신성과 대회 'AI혁신상' 수상 한국수력원자력, 공공기관 AI 혁신성과 대회 'AI혁신상' 수상 - 초격차 원자력 실현 위한 인공지능(AI) 활용, 우수사례 선정 - 한국수력원자력(사장 김회천, 이하 한수원)이 28일 서울 상암동 누리꿈스퀘어에서 열린 '2026 공공기관 AI 혁신성과 대회'에서 원전 인공지능(AI) 생태계 선도 기업으로 성과를 인정받아 ‘AI혁신상’을 수상했다. 이번 대회는 재정경제부와 과학기술정보통신부가 공동 주최... 작성일 : 2026-10-29",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77511&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "국민건강보험공단, 보건의료인력의 지친 마음에 ‘쉼표’",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014628&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "국민건강보험공단, 의료이용 이상징후 찾는 AI(인공지능)로 ‘최우수상’ 수상",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014630&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "국민건강보험공단, 건강100세운동교실 우수사례 한자리에…건강한 노후의 해법 나눈다",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014629&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "예금보험공사",
+      "type": "기타공공기관",
+      "date": "2026-10-29",
+      "title": "\"금융회사의 부실 확산에 신속·선제적으로 대응하여 금융시장의 안정 및 소비자 보호를 위한 「금융회사 신속정리제도」 도입을 추진합니다.\"",
+      "url": "https://www.kdic.or.kr/di/medi/selectPbcrBbsDtl.do?bbsSeCd=bodo&cdVl=bodo&pstNo=60344",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kdic.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "심평원 전북본부, 지역 축제 찾아 대국민서비스 현장 홍보 나서",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11951&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "2026년 장애인고용 우수사업주 선정",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217220",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "한국관광공사, 단양구경시장에 '드라큘라 백작의 비밀상점' 연다",
+      "url": "https://knto.or.kr/pressRelease/550905?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "한국관광공사x티맵과 함께 가을 드라이브 떠나요 !",
+      "url": "https://knto.or.kr/pressRelease/550904?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국석유공사",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "[보도자료] 한국석유공사, ´2026 공공기관 AI 혁..",
+      "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1007&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
       "date": "2026-10-28",
       "title": "한국수자원공사, 마이크로소프트와 수도권·부산 물 복원 ...",
       "url": "https://www.kwater.or.kr/news/repoView.do?seq=141121&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
@@ -596,6 +753,19 @@
       "officialDomain": "knoc.co.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "공무원연금공단 김우호 이사장, 첫 현장 안전경영으로 남원상록골프장·무안남악 상록아파트 점검",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43571?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {
@@ -1295,6 +1465,18 @@
       "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67251&article.offset=0&articleLimit=10",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-22",
+      "title": "--> “운전은 쉬고, 가을은 즐기고”…코레일과 떠나는 지역축제",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=FU32dK8IUfYJp2fh4M6E9xPyRdF0AYiT7LUa3LihwfR2gaZ2TkHy3VksSmioo1b6?key=911&bbsNo=199&nttNo=27436&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

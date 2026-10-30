@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T05:58:42.496329+00:00",
+  "generatedAt": "2026-10-30T13:03:33.279591+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1267,
+  "successfulAgencyCount": 19,
+  "itemCount": 1273,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 9
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -558,6 +558,68 @@
       "officialDomain": "knto.or.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-30",
+      "title": "--> 코레일-한전KDN, 안전·에너지·AI 분야 협력 강화 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=4bo5TqjU4pFe3zh4qKgZHPIS71qB9xDwxNRCAV1iJaLI8Xg5Tpo3s37yy1nKCxHg?key=911&bbsNo=199&nttNo=27460&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "국민건강보험공단, 환산지수-상대가치 연계 조정을 통한 수가체계 개선 추진",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014699&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "국민건강보험공단, ‘2026 지속가능경영 유공 포상’ 산업통상부 장관 표창 수상",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014698&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "캠코, 7,013억원 규모 압류재산 2,521건 공매 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29230&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "한국전기안전공사, 지역 기업과 상생협력 기반 넓힌다",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172129&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {
@@ -1503,6 +1565,18 @@
       "tags": [
         "보도자료",
         "안전"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-23",
+      "title": "--> 코레일 서울역 ‘플랫폼 111’, 공공디자인대상 수상",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=4bo5TqjU4pFe3zh4qKgZHPIS71qB9xDwxNRCAV1iJaLI8Xg5Tpo3s37yy1nKCxHg?key=911&bbsNo=199&nttNo=27437&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
       ]
     },
     {

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T13:11:35.615742+00:00",
+  "generatedAt": "2026-10-30T05:58:42.496329+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1253,
+  "itemCount": 1267,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 7
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -466,6 +466,103 @@
     {
       "agency": "한국수자원공사",
       "type": "공기업",
+      "date": "2026-10-30",
+      "title": "한국수자원공사, 농어촌공사·한수원과 새만금 조력발전 개...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141132&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-10-30",
+      "title": "한국수자원공사, ‘혁신챌린지’로 차세대 AI 물관리 혁...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141130&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "[보도자료] 평일에만 가능했던 학자금대출 원천공제액 납부, 이제 휴일에도 가능 2026.10.30.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21457&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "[보도자료] 한국장학재단 서울청년창업센터 입주기업 피클, 2026 산학연협력 EXPO에서 대상 수상 2026.10.30.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21456&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료",
+        "청년"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "캠코 온비드, 환경자원 플랫폼과 손잡고 공공자산 자원순환 서비스 전국 확대 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29227&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "캠코, 유휴 국유재산을 주민 소통공간으로... 여수 ‘굿동 어울텃밭’ 조성 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29226&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-30",
+      "title": "한전KPS, 사회연대경제 발전 유공 전남광주특별시장 표창 새 글 2026-10-30",
+      "url": "https://www.kps.co.kr/web/Board/47729/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "공항에서 도심 약국까지… 한국관광공사, 관광기념품 수상작 유통 판로 넓힌다",
+      "url": "https://knto.or.kr/pressRelease/550908?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
       "date": "2026-10-29",
       "title": "한국수자원공사, 美 오스틴시와 AI 물관리 협력 본격화...",
       "url": "https://www.kwater.or.kr/news/repoView.do?seq=141126&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
@@ -657,6 +754,67 @@
       ]
     },
     {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "캠코, 보유 목적 달성한 기업지원 자산 온비드로 매각",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29205&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "“국제 환경·사회·투명경영 대응이 수출 경쟁력” 코트라, 세계 공급망 진입 해...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29671",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "코트라, 영국 최상위권 3개 대학과 협력, 생명과학 해외인재 유치【10.28....",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29670",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료",
+        "인재"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-29",
+      "title": "“수출 1조 달러 열기, 다변화의 현장” 붐업코리아, 5,366건 수출 상담,...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29669",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "한전KPS, 한국품질만족지수 15년 연속 ‘1위’ 기업 선정 새 글 2026-10-29",
+      "url": "https://www.kps.co.kr/web/Board/47728/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-10-28",
@@ -802,6 +960,18 @@
       "tags": [
         "보도자료",
         "안전"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-28",
+      "title": "한전KPS, 생물다양성 보호 위한 청정 갯벌 지킴이 활동 새 글 2026-10-28",
+      "url": "https://www.kps.co.kr/web/Board/47727/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
       ]
     },
     {

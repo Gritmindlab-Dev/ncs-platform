@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T05:57:04.010016+00:00",
+  "generatedAt": "2026-10-31T12:40:22.587503+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 14,
-  "itemCount": 1273,
+  "successfulAgencyCount": 18,
+  "itemCount": 1277,
   "health": [
     {
       "agency": "한국전력공사",
@@ -108,8 +108,8 @@
     },
     {
       "agency": "한국장학재단",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "신용보증기금",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -143,8 +143,8 @@
     },
     {
       "agency": "대한무역투자진흥공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -178,8 +178,8 @@
     },
     {
       "agency": "공무원연금공단",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "정보통신기획평가원",
@@ -219,7 +219,7 @@
     {
       "agency": "한국해양교통안전공단",
       "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한전KDN",
@@ -620,6 +620,54 @@
       "tags": [
         "보도자료",
         "안전"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "캠코, 7,013억원 규모 압류재산 2,521건 공매",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29230&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "캠코 온비드, 환경자원 플랫폼과 손잡고 공공자산 자원순환 서비스 전국 확대",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29227&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "캠코, 유휴 국유재산을 주민 소통공간으로... 여수 ‘굿동 어울텃밭’ 조성",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29226&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "글로벌 공급망 재편 수요 활용 K-소부장·뿌리기업 세계 공급망 진입 확대 나서...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29672",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
       ]
     },
     {

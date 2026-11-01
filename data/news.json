@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T06:14:04.239554+00:00",
+  "generatedAt": "2026-11-01T13:34:24.507079+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
+  "successfulAgencyCount": 17,
   "itemCount": 1277,
   "health": [
     {
@@ -119,7 +119,7 @@
     {
       "agency": "기술보증기금",
       "status": "error",
-      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",

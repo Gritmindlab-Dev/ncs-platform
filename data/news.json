@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T13:34:24.507079+00:00",
+  "generatedAt": "2026-11-02T06:12:49.894030+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 17,
-  "itemCount": 1277,
+  "successfulAgencyCount": 19,
+  "itemCount": 1291,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 15
     },
     {
       "agency": "한국광해광업공단",
@@ -463,6 +463,153 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "--> 코레일, 외국어 서비스(홈페이지·앱) 확대…총 10개 언어 제공 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=a29elQc9SlnZC2nllHyqb7wW9KQiDTlSlbOr3BR1u8lJ8hx6T2CuKcCmOa1XuqA5?key=911&bbsNo=199&nttNo=27481&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "HUG-LH 민간참여사업 금융지원 '제1호' 결실, 고금리 ...",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38626&t_title=게시물 읽기 (HUG-LH 민간참여사업 금융지원 '제1호' 결실, 고금리 PF 뚫고 4.7% 저리대출로 민간에 단비)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "--> 보도 한국수력원자력·한국농어촌공사·한국수자원공사, 새만금 조력발전 공동개발 업무협약 체결 한국수력원자력·한국농어촌공사·한국수자원공사, 새만금 조력발전 공동개발 업무협약 체결 - 기존 방조제 활용한 청정에너지 생산 및 수질 개선 기대 - - 사업 타당성 검토, 기술·사업성 분석 위한 자료 공유 등 협력 - 한국수력원자력(사장 김회천, 이하 한수원)이 한국농어촌공사, 한국수자원공사와 손잡고 새만금 조력발전사업 공동개발을 위한 협력에 나선다. 한수원은 30일 한수원 방사선보건원... 작성일 : 2026-11-02",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77547&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "--> 보도 한국수력원자력, 사회적 가치경영 대상(재정경제부 장관상) 수상 한국수력원자력, 사회적 가치경영 대상(재정경제부 장관상) 수상 - 협력기업과의 동반성장, 각종 사회공헌으로 사회적 가치 실현 - 한국수력원자력(사장 김회천, 이하 한수원)이 30일 글래드 여의도 호텔에서 열린 ‘2026 공공기관 이노비전 포럼’에서 사회적 가치경영 대상(재정경제부 장관상)을 받았다. 공공기관 이노비전 포럼은 공공기관 경영평가 우수 기관의 혁신 사례를 공유하고, 공공기관의 경영 혁신과 사... 작성일 : 2026-11-02",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77534&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "--> 보도 한국수력원자력, 제50회 국가생산성대상 대통령표창 수상 한국수력원자력, 제50회 국가생산성대상 대통령표창 수상 - 지속적인 경영혁신과 생산성 향상 노력 인정받아 - - 안전 중심의 발전 운영과 기술혁신, 동반성장으로 산업 경쟁력 강화 - 한국수력원자력(사장 김회천, 이하 한수원)이 29일 서울 여의도KBS홀에서 열린 ‘제50회 국가생산성대회’에서 국가생산성대상 종합대상 공공부문 대통령표창을 수상했다. 국가생산성대상은 산업통상부가 주최... 작성일 : 2026-11-02",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77546&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "국민건강보험공단, 노인장기요양 누리집 만족도 81.9점…전년 대비 1.3점 상승",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014721&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "국민건강보험공단, 「2025년 지역별 의료이용 통계연보」 발간",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014700&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "[보도자료] 한국장학재단, 자발적 중복지원 해소가 어려운 중복지원 환수대상자 조치율 100% 달성 2026.11.02.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21463&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "예금보험공사",
+      "type": "기타공공기관",
+      "date": "2026-11-02",
+      "title": "실수로 잘못 보낸 돈을 되찾아주는 서비스가 '2026 정부혁신 세계 최초' 사례로 선정되었습니다",
+      "url": "https://www.kdic.or.kr/di/medi/selectPbcrBbsDtl.do?bbsSeCd=bodo&cdVl=bodo&pstNo=60347",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kdic.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "심평원 제주본부, ‘범도민 안전체험 한마당’서 생활 속 유용한 건강정보 안내",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11953&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "한국장애인고용공단, 자폐성 장애 인식 개선 위한 ‘2026 오티즘 레이스’ 참여",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217260",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "한국장애인고용공단 고용개발원, 제18회 장애인고용패널 학술대회 개최",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217255",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",
@@ -668,6 +815,20 @@
       "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-30",
+      "title": "기보, 기업은행과 유망청년창업 활성화를 위한 업무협약 체결",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67415&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료",
+        "청년",
+        "협약"
       ]
     },
     {
@@ -1080,6 +1241,18 @@
       "url": "https://www.kps.co.kr/web/Board/47727/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "기보, 세종창조경제혁신센터와 손잡고 지역 혁신스타트업 성장 지원",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67414&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
       "tags": [
         "보도자료"
       ]

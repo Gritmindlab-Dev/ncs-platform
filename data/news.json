@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T06:12:49.894030+00:00",
+  "generatedAt": "2026-11-02T16:04:30.067432+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1291,
+  "successfulAgencyCount": 18,
+  "itemCount": 1301,
   "health": [
     {
       "agency": "한국전력공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국가스안전공사",
@@ -606,6 +606,127 @@
       "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217255",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "한국수자원공사, 광역상수도 인프라 활용해 도심 수열에너...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141136&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "--> KTX-이음 블록으로 떠나는 강릉…코레일, ‘레일&시티’ 굿즈 출시 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=4PDnoGZziL0ccauPIou4NKxCrgQAQWdelGvSv9esnqW8N9CYTicoFB8sCcK2Gmnw?key=911&bbsNo=199&nttNo=27486&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-02",
+      "title": "--> 보도 한국수력원자력, '지역 상생 분산형 연료전지' 정부혁신 최고 사례 선정 한국수력원자력, '지역 상생 분산형 연료전지' 정부혁신 최고 사례 선정 - 유휴 부지 8곳에 발전소 구축… 송전망 부담 줄이고 친환경 에너지 공급 - 한국수력원자력(사장 김회천, 이하 한수원)의 ‘지역 상생 분산형 연료전지 사업’이 행정안전부와 한국행정연구원이 주관한 ‘2026 정부혁신 최초·최고’의 유휴 공간 재생 분야에서 국내 최고 혁신... 작성일 : 2026-11-02",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77560&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "국민건강보험공단, 「제23차 건강보험 국제 연수과정」 개최",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014724&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "기보, 공공 마이데이터 활용 성과 바탕으로 보증신청 편의 제고에 나서",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67424&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "J조선 8.4조원(1조엔) 투입 선박 건조 2배로, K-조선기자재에 기회 코트...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29679",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "중국 1위 소비시장 충칭, K-소비재 내륙 진출 새 관문으로 코트라, 중서부 ...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29678",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "코트라, K-소비재 확산 속 독립국가연합 내륙국 겨냥 물류 장벽 낮춰 수출 시...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29677",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-02",
+      "title": "호주 에너지 전환 가속화.. K-녹색기술에 수출 기회 코트라, 남반구 최대 청...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29676",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-11-01",
+      "title": "기보, K-뷰티 이끄는 Kibo-Star밸리기업 ㈜노디너리 현장 방문",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67423&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
       "tags": [
         "보도자료"
       ]

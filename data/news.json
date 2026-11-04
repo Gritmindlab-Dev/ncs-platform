@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T19:36:39.699698+00:00",
+  "generatedAt": "2026-11-04T06:32:29.069218+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1321,
+  "itemCount": 1329,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국가스안전공사",
@@ -463,6 +463,104 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-04",
+      "title": "한국수자원공사-KAIST, 신뢰받는 공공감사를 위해 머...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141145&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-04",
+      "title": "--> 코레일 사곡역·진부역, ‘아름다운 화장실’ 행안부장관상 수상 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=YxLQjSNqMbzjfqCEsNAjg39Xx18FYqhhTwqwihbmCJ921utATFFav26f2zeVsoaH?key=911&bbsNo=199&nttNo=27496&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-04",
+      "title": "HUG, ‘AI전환 추진실태 특정감사 성과’ 창출, 기관 간 감사협력 결실",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38642&t_title=게시물 읽기 (HUG, ‘AI전환 추진실태 특정감사 성과’ 창출, 기관 간 감사협력 결실)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-04",
+      "title": "--> 보도 한국수력원자력, 美 전력연구원(EPRI)과 청정수소 저탄소 에너지 기술협력 한국수력원자력, 美 전력연구원(EPRI)과 청정수소 저탄소 에너지 기술협력 한국수력원자력(사장 김회천, 이하 한수원)이 4일 일산 킨텍스에서 미국 전력연구원(EPRI)과 청정수소 전주기 기술, 에너지 저장 기술 등 저탄소 에너지 기술 분야의 공동연구 및 기술협력을 위한 업무협약을 체결했다. 양 기관은 이를 바탕으로 첨단 에너지 기술의 연구·실증 및 사업화 분야에서 공동 협력 기회를 발굴하기로 했다. 협약에 따라 한... 작성일 : 2026-11-04",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77598&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "국민건강보험공단, 국민 중심의 통합적 의료비 지원체계 모색",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014806&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "전기안전공사·일동헬스케어, 생활 속 전기안전 함께 알린다",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172179&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "심평원, 뇌혈관질환 및 급성심근경색증「자율형 분석심사 선도사업」 참여기관 공모",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11955&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "심평원 부산본부, 동남권원자력의학원과 지역 공공의료 협력체계 강화",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11954&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",

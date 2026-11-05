@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T06:54:43.201093+00:00",
+  "generatedAt": "2026-11-05T20:04:49.672825+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1355,
+  "successfulAgencyCount": 18,
+  "itemCount": 1359,
   "health": [
     {
       "agency": "한국전력공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국가스안전공사",
@@ -616,6 +616,30 @@
       "url": "https://knto.or.kr/pressRelease/550921?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "한국수자원공사, 특정공법·자재 심사제도 기업간담회 개최",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141154&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "2026년 제11차 약제급여평가위원회 심의결과 공개",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11956&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1548,6 +1572,18 @@
       ]
     },
     {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-10-30",
+      "title": "한전KPS, 사회연대경제 발전 유공 전남광주특별시장 표창 2026-10-30",
+      "url": "https://www.kps.co.kr/web/Board/47729/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-10-29",
@@ -1819,6 +1855,18 @@
       "date": "2026-10-29",
       "title": "--> 코레일, 국제표준 AI 경영시스템 인증 획득",
       "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=1EWRduVKSZsfSaM4vPFrgKLW7dPfG0G5WnRRy8IqMqvO1QxXTOaW8wf3ZYEl3Ill?key=911&bbsNo=199&nttNo=27457&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "--> 코레일, 경기도 버스 파업 시 전동열차 12회 추가 운행",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=M3fcXtxWYcutZtbvJ80Lu14OnHK22traWFgifPVPHqYh4HpaT4d1V6Is67GneIrQ?key=911&bbsNo=199&nttNo=27459&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "korail.com",
       "tags": [

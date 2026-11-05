@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T19:52:30.500698+00:00",
+  "generatedAt": "2026-11-05T06:54:43.201093+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 19,
-  "itemCount": 1338,
+  "itemCount": 1355,
   "health": [
     {
       "agency": "한국전력공사",
@@ -466,6 +466,163 @@
     {
       "agency": "한국수자원공사",
       "type": "공기업",
+      "date": "2026-11-05",
+      "title": "한국수자원공사, AWC 창립 10주년 맞아 아시아 물 ...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141147&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "--> 코레일 “12월부터 ‘반값 열차’ 할인 지역 6곳 늘어난다” 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=1EWRduVKSZsfSaM4vPFrgKLW7dPfG0G5WnRRy8IqMqvO1QxXTOaW8wf3ZYEl3Ill?key=911&bbsNo=199&nttNo=27502&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "--> 고속철도 통합 60일, 하루 32.2만 명 이용… 예매·객실 서비스 개선 이어간다 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=1EWRduVKSZsfSaM4vPFrgKLW7dPfG0G5WnRRy8IqMqvO1QxXTOaW8wf3ZYEl3Ill?key=911&bbsNo=199&nttNo=27500&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "HUG, 26.11월 미분양관리지역 총 4곳 지정",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38657&t_title=게시물 읽기 ( HUG, 26.11월 미분양관리지역 총 4곳 지정)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "주택도시보증공사(HUG), 5개 공공기관과 내부통제 공동협력 협약 체결",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38650&t_title=게시물 읽기 (주택도시보증공사(HUG), 5개 공공기관과 내부통제 공동협력 협약 체결)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "--> 보도 한국수력원자력, 제15회 나눔국민대상 보건복지부 장관상 수상 한국수력원자력, 제15회 나눔국민대상 보건복지부 장관상 수상 - 지속적인 나눔과 상생 실천으로 지역사회 복지 증진에 기여 - 한국수력원자력(사장 김회천, 이하 한수원)이 5일 서울 KBS 아트홀에서 열린 ‘2026 대한민국 나눔국민대상’시상식에서 보건복지부 장관 표창을 수상했다. ‘대한민국 나눔국민대상’은 보건복지부와 KBS, 사회복지공동모금회가 공동으로 주최하는 행사로, 우리 사회... 작성일 : 2026-11-05",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77616&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "--> 보도 한국수력원자력, 글로벌 청정수소 전략 논의 한국수력원자력, 글로벌 청정수소 전략 논의 - 제4회 청정수소 국제포럼 개최 - 한국수력원자력(사장 김회천, 이하 한수원)이 2050 탄소중립 달성을 위한 청정수소의 안정적인 공급망 구축과 수요 창출 방안을 논의하고, 국내외 수소 분야 정보 교류를 위해 4일과 5일 양일간 킨텍스 제2전시장에서 ‘제4회 청정수소 국제포럼’을 개최했다. ‘2050 탄소중립(Net Zero) 달성을 위한 청정수소... 작성일 : 2026-11-05",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77612&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "국민건강보험공단, 건강보험 빅데이터 분석센터 4개소 신규 개소",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014853&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "국민건강보험공단, 「간호·간병통합서비스 우수기관」 38곳 현판 수여",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014844&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "컨테이너 낙찰 받아 창업까지... 캠코, 온비드 활용 수기 공모전 시상 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29306&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "캠코 등 6개 공공기관, 내부통제 역량 강화 위해 협력체계 구축 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29305&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "부산광역시 장애인 표준사업장 생산품 박람회 개최",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217385",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "한국관광공사-국민체육진흥공단, 이동 약자에 특별한 국내여행 선물",
+      "url": "https://knto.or.kr/pressRelease/550921?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
       "date": "2026-11-04",
       "title": "한국수자원공사-KAIST, 신뢰받는 공공감사를 위해 머...",
       "url": "https://www.kwater.or.kr/news/repoView.do?seq=141145&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
@@ -643,6 +800,30 @@
       "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29687",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "공무원연금공단, 꾸준한 생명 나눔 실천으로 대한적십자사 회장 표창 수상",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43635?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "“치매 예방부터 연금 상담까지”… 공무원연금공단 제주지부, 연금수급자 대상 생활강좌 개최",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43542?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -837,6 +1018,18 @@
       "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217341",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-03",
+      "title": "[보도자료] 2026학년도 2학기 학자금대출 마감 임박, 11월 17일(화)까지 지금 바로 신청하세요! 2026.11.03.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21477&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
       "tags": [
         "보도자료"
       ]
@@ -1616,6 +1809,18 @@
       "url": "https://www.kps.co.kr/web/Board/47728/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-29",
+      "title": "--> 코레일, 국제표준 AI 경영시스템 인증 획득",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=1EWRduVKSZsfSaM4vPFrgKLW7dPfG0G5WnRRy8IqMqvO1QxXTOaW8wf3ZYEl3Ill?key=911&bbsNo=199&nttNo=27457&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

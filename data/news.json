@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T20:04:49.672825+00:00",
+  "generatedAt": "2026-11-06T06:55:28.156340+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1359,
+  "successfulAgencyCount": 19,
+  "itemCount": 1380,
   "health": [
     {
       "agency": "한국전력공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -179,7 +179,7 @@
     {
       "agency": "공무원연금공단",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 9
     },
     {
       "agency": "정보통신기획평가원",
@@ -466,6 +466,211 @@
     {
       "agency": "한국수자원공사",
       "type": "공기업",
+      "date": "2026-11-06",
+      "title": "한국수자원공사, 스페인 스마트시티 엑스포서 재생에너지 ...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141156&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "한국수자원공사, AWC 회장기관 재선출… 글로벌 물협력...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141155&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "--> 코레일, 신도림역 새 출입구 개통…계단 없이 바로 승차 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=2DqrHT9sJzGOQIyPks18aBSGOPDnIXS7LMXHHwI1kMKnkg4MTVLzzxbzY0kB2wtB?key=911&bbsNo=199&nttNo=27514&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "--> “열차가 만든 전기, 제대로 쓰려면?” 코레일, 국회서 해법 제안 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=2DqrHT9sJzGOQIyPks18aBSGOPDnIXS7LMXHHwI1kMKnkg4MTVLzzxbzY0kB2wtB?key=911&bbsNo=199&nttNo=27509&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "주택도시보증공사, 지역상생을 위해 집중호우 피해지역 및 부산 내 취약계층 ...",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38662&t_title=게시물 읽기 (주택도시보증공사, 지역상생을 위해 집중호우 피해지역 및 부산 내 취약계층에 쌀 기부)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "주택도시보증공사, 사회공헌 분야 최고 권위의 상으로 인정받는 제15회 대 ...",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38661&t_title=게시물 읽기 (주택도시보증공사, 사회공헌 분야 최고 권위의 상으로 인정받는 제15회 대한민국 나눔국민대상에서 대통령 표창 수상)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "--> 보도 한국수력원자력, 합천양수 건설지역 주민 대상 현장견학 시행 한국수력원자력, 합천양수 건설지역 주민 대상 현장견학 시행 - 영동양수 건설현장·무주양수발전소 견학, 주민체감형 소통으로 공감대 확대 - 한국수력원자력(사장 김회천, 이하 한수원)이 6일 합천양수발전소 건설지역 주민(묘산면 새마을협의회)과 합천군 관계자 등 40여 명을 대상으로 영동양수 건설현장과 무주양수발전소 현장견학을 실시했다. 이번 견학은 합천양수 건설사업에 대한 지역 주민의 ... 작성일 : 2026-11-06",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77625&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "--> 보도 한국수력원자력, 美 전력연구소와 청정수소 생산기술 활성화 테크 포럼 개최 한국수력원자력, 美 전력연구소와 청정수소 생산기술 활성화 테크 포럼 개최 한국수력원자력(사장 김회천, 이하 한수원)이 6일 일산 킨텍스 제2전시실 중회의실에서 미국 전력연구소(EPRI) 저탄소자원계획(LCRI) 팀과 함께‘2026 청정수소 생산기술 활성화 테크 포럼’을 개최했다. EPRI LCRI(Low Carbon Resources Initiative)는 2050년 탄소중립 달성을 목표로 ... 작성일 : 2026-11-06",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77620&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "--> 보도 한국수력원자력, 체코 원자력 청정수소 사업화 기반 확보 한국수력원자력, 체코 원자력 청정수소 사업화 기반 확보 - 체코 UJV-Rez와 '원자력 청정수소 기반 연구 성과 공유회' 개최 - 한국수력원자력(사장 김회천, 이하 한수원)이 체코 현지에서 원자력 청정수소 생산 실증을 위한 기반 연구 성과를 공유하고, 현지 유관기관 및 잠재 수소 수요처와의 협력을 확대하며 유럽 수소 시장 진출 기반 강화에 나선다. 한수원은 11월 5일(현지시간) 체코 프라하에서 ‘원... 작성일 : 2026-11-06",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77619&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "--> 보도 한국수력원자력, 한국콘크리트학회 ‘기술상’ 수상 한국수력원자력, 한국콘크리트학회 ‘기술상’ 수상 - 로봇·드론 및 3차원 디지털 트윈 기반 원전 유지관리 혁신 성과 인정 - 한국수력원자력(사장 김회천, 이하 한수원)이 5일 평창 알펜시아리조트에서 열린 ‘2026년 한국콘크리트학회 정기총회’에서 에너지공기업 최초로 ‘기술상’을 수상했다. 한국콘크리트학회 ‘기술상... 작성일 : 2026-11-06",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77618&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "(11.05) KOEN 한국남동발전, 녹색금융 우수기업 선정... 기후에...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64254",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-06",
+      "title": "(11.05) KOEN 한국남동발전, 청렴윤리경영 국제인증 6년 연속 유...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64253",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-06",
+      "title": "국민건강보험공단, ‘경영방침 선포식’ 개최",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014885&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-06",
+      "title": "[보도자료] “장학금 신청이 몰려도 끄떡없이”… 한국장학재단, 안정적인 장학·금융서비스의 비결 공유 2026.11.06.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21480&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-06",
+      "title": "[보도자료] 한국장학재단 사회리더 대학생 한정아 멘토, 국무총리 표창 수상 2026.11.06.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21479&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-06",
+      "title": "한국전기안전공사 ‘제8회 대한민국 솔라리그’ 장관상",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172186&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-06",
+      "title": "한국관광공사, 런던 국제관광 박람회(WTM)에서 방한관광 세일즈 총력",
+      "url": "https://knto.or.kr/pressRelease/550925?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
       "date": "2026-11-05",
       "title": "한국수자원공사, AWC 창립 10주년 맞아 아시아 물 ...",
       "url": "https://www.kwater.or.kr/news/repoView.do?seq=141147&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
@@ -640,6 +845,42 @@
       "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11956&pageIndex=1&pageIndex2=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "컨테이너 낙찰 받아 창업까지... 캠코, 온비드 활용 수기 공모전 시상",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29306&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "캠코 등 6개 공공기관, 내부통제 역량 강화 위해 협력체계 구축",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29305&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-05",
+      "title": "공무원연금공단, 상임감사와 함께하는 ‘청렴 한 끼’ 개최",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43733?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1581,6 +1822,19 @@
       "officialDomain": "kps.co.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-10-30",
+      "title": "--> 코레일-한전KDN, 안전·에너지·AI 분야 협력 강화",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=2DqrHT9sJzGOQIyPks18aBSGOPDnIXS7LMXHHwI1kMKnkg4MTVLzzxbzY0kB2wtB?key=911&bbsNo=199&nttNo=27460&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {

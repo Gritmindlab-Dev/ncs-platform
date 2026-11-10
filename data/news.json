@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T22:28:17.757440+00:00",
+  "generatedAt": "2026-11-10T07:26:08.138129+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1418,
+  "successfulAgencyCount": 19,
+  "itemCount": 1425,
   "health": [
     {
       "agency": "한국전력공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 15
     },
     {
       "agency": "한국광해광업공단",
@@ -463,6 +463,93 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-10",
+      "title": "한국수자원공사, 영국 리버풀권역정부와 조력발전 콘퍼런스...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141164&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-10",
+      "title": "--> 보도 한국수력원자력, 산.학.연 원자력 교육 혁신 및 기술교류 워크숍 첫 시행 한국수력원자력, 산.학.연 원자력 교육 혁신 및 기술교류 워크숍 첫 시행 - 기관별 교육혁신 사례와 원전 신기술 공유 - - 한수원 채용 설명회도 열어 미래 인재와 소통 - 한국수력원자력(사장 김회천, 이하 한수원)이 5일과 6일 이틀간 대전 KAIST에서 ‘제1회 원자력 교육 혁신 및 기술 교류 워크숍'을 개최하고, 원자력 교육기관 간 교육 인프라와 전문 역량을 공유하는 협력체계 구축에 나섰다. 이번 워크숍에는 ... 작성일 : 2026-11-10",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77686&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "채용",
+        "인재",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-10",
+      "title": "--> 보도 한국수력원자력, 여가친화 우수기업(문화체육관광부 장관상) 선정 한국수력원자력, 여가친화 우수기업(문화체육관광부 장관상) 선정 - 유연한 근무환경 조성과 여가친화적 조직문화 내재화 성과 인정 - 한국수력원자력(사장 김회천, 이하 한수원)이 9일 국립중앙박물관에서 열린 ‘2026년 여가친화경영 기업 인증식’에서 여가친화기업 재인증을 획득하고, 우수기관으로 선정돼 문화체육관광부 장관상을 수상했다. 여가친화인증제는 국민여가활성화기본법 제16조에 근거해 근로자가 일과 여가생활... 작성일 : 2026-11-10",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77674&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-10",
+      "title": "국민건강보험공단, 임직원 단체헌혈로 생명나눔 실천",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014928&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-10",
+      "title": "심평원, 네팔 홍수 피해 지원 성금 1천만원 전달",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11959&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-10",
+      "title": "‘예방가능한 입원’ 지역 격차, 일차의료 개선으로 감소 기대",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11958&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-10",
+      "title": "공무원연금공단 부산지부, ‘2026 사랑의 김치 나눔 한마당’ 봉사 참여",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43758?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",

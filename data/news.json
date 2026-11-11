@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T06:32:02.590826+00:00",
+  "generatedAt": "2026-11-11T19:42:33.688418+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1453,
+  "successfulAgencyCount": 19,
+  "itemCount": 1464,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -704,6 +704,139 @@
       "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1009&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "--> 보도 한국수력원자력, 제주대와 '그린수소 기술혁신센터' 구축 본격화 한국수력원자력, 제주대와 '그린수소 기술혁신센터' 구축 본격화 - 제주대 내 실증부지 사용 협약 체결을 통해 그린수소 기술개발 거점 조성 - 한국수력원자력(사장 김회천, 이하 한수원)이 제주대학교와 손잡고 그린수소 생산기술 실증을 위한 전초기지 구축에 나선다. 한수원은 11일 제주대학교 아라캠퍼스에서 제주대학교와 ‘그린수소 기술혁신센터’ 구축을 위한 부지 사용 약정을 체결했다. 이번 약정은... 작성일 : 2026-11-11",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77679&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "--> 보도 한국수력원자력, 노사 공동 비전 선포 한국수력원자력, 노사 공동 비전 선포 - '노사가 함께 만들어가는 세계 에너지 시장의 미래 리더' - 한국수력원자력(사장 김회천, 노조위원장 강창호, 이하 한수원) 노사가 신뢰와 협력을 바탕으로 미래 에너지 시장을 선도하기 위한 새로운 공동 비전을 선포했다. 한수원 노사는 10일 경주 본사에서 김회천 사장과 경영진, 강창호 노동조합 중앙위원장 등 노사 대표들이 참석한 가운데 ‘노사... 작성일 : 2026-11-11",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77678&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "--> 보도 한국수력원자력, 전통시장 살리고 이웃 돕는 '나눔 장보기' 행사 시행 한국수력원자력, 전통시장 살리고 이웃 돕는 '나눔 장보기' 행사 시행 - 임직원 성금으로 1,200만 원 상당 물품 구매해 경주 지역 복지시설에 전달 - 한국수력원자력(사장 김회천, 이하 한수원)이 11일 경주 성동시장과 중앙시장에서 지역 전통시장 활성화와 나눔 실천을 위한 ‘전통시장 장보기 행사’를 시행했다. 이번 행사에는 한수원 직원 봉사자 34명이 참여해 경주시 노인복지시설·지역아동센터 등 ... 작성일 : 2026-11-11",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77677&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "(11.11) KOEN 한국남동발전, 농촌일손돕기 통해 ‘구슬땀으로 일군...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64259",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "기보, 11일부터 제3자 부당개입 집중신고기간 운영",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67585&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "소상공인의 내일을 바꾸는 오늘의 새출발… 캠코, 「새출발기금 이용고객 초청 간담회」 개최",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29385&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "2026년 제9차 중증(암)질환심의위원회 심의결과 공개",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11965&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "심평원 대구경북본부, ‘1일 명예 지역심사평가위원장’ 위촉으로 지역의료계와 소통",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11964&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "보훈의료 공공성 확대를 위한 혁신,심평원-보훈공단 마음 더하기",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11963&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "장애인 고용의 가능성, 새로운 직무에서 찾는다",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217555",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "한국관광공사, 감사원과 ‘찾아가는 적극행정지원 설명회’ 개최",
+      "url": "https://knto.or.kr/pressRelease/550932?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
       "tags": [
         "보도자료"
       ]

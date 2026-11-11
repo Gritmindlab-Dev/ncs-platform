@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T19:52:09.176724+00:00",
+  "generatedAt": "2026-11-11T06:32:02.590826+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1431,
+  "itemCount": 1453,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -463,6 +463,251 @@
     }
   ],
   "items": [
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "HUG, 인허가와 PF보증 심사 동시에,심사 진행상황도 실시간 확인",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38679&t_title=게시물 읽기 (HUG, 인허가와 PF보증 심사 동시에,심사 진행상황도 실시간 확인)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "“혹시 나도?” 잠자는 건강보험 본인부담금환급금 확인하세요!",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014992&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "강청희 건보공단 이사장, 항의 방문한 경기도의사회 회장 직접 만나",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11014983&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "소상공인의 내일을 바꾸는 오늘의 새출발… 캠코, 「새출발기금 이용고객 초청 간담회」 개최 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29385&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "한국전기안전공사, 직원 주도형 바이브코딩 경진대회 개최",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172200&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "심평원, 2026년 국가통계 보급·이용 부문 우수기관 선정",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11962&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "심평원 전남광주본부, 지역 의료기관과 심사·평가 현장 소통 강화",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11961&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "공무원연금공단 대구지부, 경찰 합동점검 결과 반영해 임대주택 안전 강화",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43759?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "동절기 산림복지시설 안전사고 ‘꼼짝마’ 산림복지진흥원, 폭설 대비 산림복지시설 안전점검",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9332",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "“AI 전환 정답은 현장에 있다” 산림복지진흥원, AI 활용 해커톤 ‘성료’",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9331",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "도심숲에서 즐기는 산림문화체험, 산림문화페스티벌서 34개 체험부스 운영",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9330",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "“산림복지 이야기를 담았어요” 산림복지진흥원, 매거진 ‘에코힐링’ 52호 발간",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9329",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "“임산물로 요리했어요” …산림복지진흥원, 한식진흥원과 임산물로 쿠킹클래스",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9328",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "“산림복지시설 안전은 우리 손으로” 가을철 안전관리 총력",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9327",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "산림복지진흥원-서울시-타이어나눔재단 업무협약 체결",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9326",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "“도심으로 숲캉스 떠나요”… 산림복지진흥원, 대전 보라매공원서 팝업스토어 운영",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9325",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "문턱은 낮추고 상생을 넓히고, K-ESG 경영대상 수상",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9324",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "내년도 복권기금 녹색자금 공모에 230개 선정, 360억원 들여 산림복지 접근성 개선",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9323",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-11",
+      "title": "한국관광공사, 관광벤처기업에 성장의 날개 단다",
+      "url": "https://knto.or.kr/pressRelease/550930?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국석유공사",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "[보도설명자료] 동해 심해탐사사업 투자유치는 우선협상대..",
+      "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1009&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",
@@ -1666,6 +1911,30 @@
       "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67537&article.offset=0&articleLimit=10",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-04",
+      "title": "--> 코레일 사곡역·진부역, ‘아름다운 화장실’ 행안부장관상 수상",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=RdBvDZzq1S1ZTWq3NKqMO59qfu3FMKiAdma4pfC8ifESfGv5TChXJWpxBICIGE54?key=911&bbsNo=199&nttNo=27496&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-04",
+      "title": "한국장애인고용공단, 라이브커머스로 장애인 표준사업장 판로 확대",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217538",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
       "tags": [
         "보도자료"
       ]

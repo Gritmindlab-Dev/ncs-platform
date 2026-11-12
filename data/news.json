@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T07:19:11.481717+00:00",
+  "generatedAt": "2026-11-12T20:02:29.822359+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1477,
+  "successfulAgencyCount": 18,
+  "itemCount": 1486,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -593,6 +593,116 @@
       "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1010&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-12",
+      "title": "--> 보도 한국수력원자력, 제주 산·학·연과 그린수소 기술혁신 협력 강화 한국수력원자력, 제주 산·학·연과 그린수소 기술혁신 협력 강화 - 제주 산·학·연 기술동행으로 탄소중립 연구개발(R&D) 협력체계 구축 - 한국수력원자력(사장 김회천, 이하 한수원)이 12일 한국에너지기술연구원 제주글로벌 연구센터에서 ‘제1차 제주 산·학·연 기술동행을 통한 그린수소 기술혁신 세미나’를 개최했다. ... 작성일 : 2026-11-12",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77694&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "예금보험공사",
+      "type": "기타공공기관",
+      "date": "2026-11-12",
+      "title": "김성식 예금보험공사 사장, 청년 군장병 경제금융 교육을 위한 현장 방문",
+      "url": "https://www.kdic.or.kr/di/medi/selectPbcrBbsDtl.do?bbsSeCd=bodo&cdVl=bodo&pstNo=60380",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kdic.or.kr",
+      "tags": [
+        "보도자료",
+        "청년",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "캠코, 위기기업 정상화 해법 찾는다… 「2026년도 기업구조혁신포럼」 개최",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29409&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "캠코·아산시, 한들물빛도시 복합체육문화센터 건립 추진",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29405&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "코트라 붐업 코리아, ‘수출 1조 달러 열기’ 지역으로 확산【11.12.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29718",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "인베스트코리아, 세계투자진흥기관협회 우수 투자기관상 수상【11.11.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29717",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "수출 1조 달러 동력, 지역 소기업으로 확산 코트라, 전국 12개 지역으로 ‘...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29716",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "아시아 최대 화장품 대축제 홍콩 코스모프로프 바이어들 K-뷰티 사러 집결【11...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29715",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "공무원연금공단 대구지부, ‘따뜻한 겨울나기’ 연탄 나눔 봉사활동 실시",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43776?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]

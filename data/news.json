@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T19:42:33.688418+00:00",
+  "generatedAt": "2026-11-12T07:19:11.481717+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 19,
-  "itemCount": 1464,
+  "itemCount": 1477,
   "health": [
     {
       "agency": "한국전력공사",
@@ -463,6 +463,140 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-12",
+      "title": "--> 보도 한국수력원자력, 아시아 최초 IAEA 정기 운영점검으로 원전 안전성 강화 한국수력원자력, 아시아 최초 IAEA 정기 운영점검으로 원전 안전성 강화 - 국제기준에 따른 정기적인 원전 점검으로 국민 신뢰성 높여 - 한국수력원자력(사장 김회천, 이하 한수원)은 국제원자력기구(IAEA)가 신고리2호기를 대상으로 지난 10월 26일부터 11월 12일까지 3주간 실시한 운영안전점검(OSART, Operational Safety Review Team)을 성공적으로 마무리했다고 밝혔다. OSART는 국제 원자... 작성일 : 2026-11-12",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77705&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "‘건강보험을 RE:BOOM 하라!’ 국민건강보험공단, 대국민 아이디어 공모전 개최",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015025&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "국민건강보험공단, 4대 사회보험료 자동이체 신청 365일 확대",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015020&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "캠코·아산시, 한들물빛도시 복합체육문화센터 건립 추진 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29405&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "겨울 추위 성큼…전기안전공사, 겨울철 전열기구 안전사용 당부",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172204&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "심평원 전남광주본부, 빅데이터 기반 지역 보건의료산업 경쟁력 강화",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11969&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "“현장에서 소통하고, 협력으로 이어가다”심평원 대전충청본부, 지역 의약단체와 릴레이 소통으로 상생‧협력 강화",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11968&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "심평원, 10·29이태원참사 피해자 의료비 지원 업무 지속 수행",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11967&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "심평원 부산본부, ‘폐의약품 안심수거 사업’으로 부산시장 표창 수상",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11966&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "한국장애인고용공단, 2026년 국가통계 개발·개선 분야 우수기관 선정",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217558",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국석유공사",
+      "type": "공기업",
+      "date": "2026-11-12",
+      "title": "[보도자료] 한국석유공사, 영남알프스 간월재서 “산불예..",
+      "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1010&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "주택도시보증공사",
       "type": "공기업",
@@ -1812,6 +1946,30 @@
       "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67538&article.offset=0&articleLimit=10",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "--> 코레일 “12월부터 ‘반값 열차’ 할인 지역 6곳 늘어난다”",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=IC1XUKyz2bCMRakJv3t8aewxApU6XVxfcDHMqw4fVaMSKm3YT2r9B6rO9uHbY0JB?key=911&bbsNo=199&nttNo=27502&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "--> 고속철도 통합 60일, 하루 32.2만 명 이용… 예매·객실 서비스 개선 이어간다",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=IC1XUKyz2bCMRakJv3t8aewxApU6XVxfcDHMqw4fVaMSKm3YT2r9B6rO9uHbY0JB?key=911&bbsNo=199&nttNo=27500&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

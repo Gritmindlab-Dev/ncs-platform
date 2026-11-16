@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T06:39:18.074492+00:00",
+  "generatedAt": "2026-11-16T22:10:27.245348+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1512,
+  "successfulAgencyCount": 19,
+  "itemCount": 1524,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -464,6 +464,18 @@
   ],
   "items": [
     {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "한국장애인고용공단, 장애인 직업능력평가사 2급 자격검정 합격자 144명 발표",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217647",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-11-16",
@@ -506,6 +518,129 @@
       "date": "2026-11-16",
       "title": "한국관광공사, 말레이시아 대형 포상관광단 1,500 명 유치",
       "url": "https://knto.or.kr/pressRelease/550937?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-16",
+      "title": "--> 코레일, 전주역서 ‘철도문화전’ 개막 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=gY1Y5eN9SAi7PzJkKL37qUkKakRR1xuPmolKyIrCLS1NrdcjT0r94x6HHsPDs81X?key=911&bbsNo=199&nttNo=27558&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-16",
+      "title": "--> 보도 한국수력원자력, '제44회 공공 HRD 콘테스트' 인사혁신처장상·특별상 동시 수상 한국수력원자력, '제44회 공공 HRD 콘테스트' 인사혁신처장상·특별상 동시 수상 - 교수학습 분야 2년 연속 인사혁신처장상 영예 - - 공공 HRD 발전 기여 인정받아 기관 특별상(공로상)까지 2관왕 - 한국수력원자력(사장 김회천, 이하 한수원)이 13일 국가공무원인재개발원이 주관한 ‘제44회 공공 HRD 콘테스트’ 교수학습 분야에서 인재개발원 김동건 교수가 개발·운영한 ‘Sma... 작성일 : 2026-11-16",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77750&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "인재"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-16",
+      "title": "--> 보도 한국수력원자력, 월성본부 노·사 합동 '안전챙김 현장경영' 한국수력원자력, 월성본부 노·사 합동 '안전챙김 현장경영' - 안전 개선 조치 현황 점검과 직원 격려 - 한국수력원자력(사장 김회천, 이하 한수원)이 16일 월성원자력본부에서 현장 위험 요인과 안전조치 이행 상태를 직접 확인하는 ‘안전챙김 현장경영’을 시행했다. 이번 현장경영은 안전 개선 조치가 현장에서 실효성 있게 이행되고 있는지 확인하고, 경영진과 노동조합이 함께 ... 작성일 : 2026-11-16",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77748&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "국민건강보험공단, “특사경은 불법개설기관 근절을 위한 제도”…의료계 우려 해소에도 최선",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015090&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "[보도자료] 캠코, 민·관·공 합동훈련으로 국유재산 재난대응체계 정밀 점검",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29446&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "세계 1등 혁신 국가도 찾는 K-기술 코트라, 스위스에서 산업 자동화부터 원전...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29725",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "비반도체 수출시장 증가율, 호주 1위, 네덜란드 2위【11.16.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29724",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "코트라-정부조달수출진흥협회, 기업 해외조달 진출 지원 협력 유엔 조달시장 참여...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29723",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "공무원연금공단 이사장,천안·화성서 현장 안전·고객서비스 경영 행보",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43768?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "“관광 유니콘 키운다” 2030 관광기업 육성 비전 선포",
+      "url": "https://knto.or.kr/pressRelease/550939?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
       "tags": [
@@ -717,6 +852,18 @@
       "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11970&pageIndex=1&pageIndex2=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "기술보증기금",
+      "type": "준정부기관",
+      "date": "2026-11-13",
+      "title": "기보, 한국방위산업진흥회와 방산 중소기업 MnA 활성화 위해 맞손",
+      "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67932&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kibo.or.kr",
       "tags": [
         "보도자료"
       ]

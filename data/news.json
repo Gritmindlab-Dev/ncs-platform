@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T18:59:33.776971+00:00",
+  "generatedAt": "2026-11-16T06:39:18.074492+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1508,
+  "itemCount": 1512,
   "health": [
     {
       "agency": "한국전력공사",
@@ -463,6 +463,55 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-16",
+      "title": "양승조 한국수자원공사 사장, 창립 60주년 앞두고 새로...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141172&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-16",
+      "title": "--> 보도 한국수력원자력, 차세대원자로 사용후핵연료 관리 국제 협력 강화 한국수력원자력, 차세대원자로 사용후핵연료 관리 국제 협력 강화 한국수력원자력(사장 김회천, 이하 한수원)이 한국원자력연구원(원장 정우식, 이하 원자력연)과 공동으로 8일부터 13일까지 대전 한국원자력연구원 국제원자력교육훈련센터(INTEC)에서 차세대원자로의 사용후핵연료 관리 및 재처리를 주제로 두 차례의 국제 워크숍을 개최했다. 두 행사는 경제협력개발기구 산하 원자력기구(OECD/NEA)와 협력해 마련했다. 먼저 8일부터 1... 작성일 : 2026-11-16",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77765&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "[보도자료] 캠코, 민·관·공 합동훈련으로 국유재산 재난대응체계 정밀 점검 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29446&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-16",
+      "title": "한국관광공사, 말레이시아 대형 포상관광단 1,500 명 유치",
+      "url": "https://knto.or.kr/pressRelease/550937?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국철도공사",
       "type": "공기업",

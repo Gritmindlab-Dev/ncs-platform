@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T22:10:27.245348+00:00",
+  "generatedAt": "2026-11-17T08:01:52.483547+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1524,
+  "successfulAgencyCount": 20,
+  "itemCount": 1546,
   "health": [
     {
       "agency": "한국전력공사",
@@ -24,7 +24,7 @@
     {
       "agency": "한국철도공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 9
     },
     {
       "agency": "한국토지주택공사",
@@ -98,8 +98,8 @@
     },
     {
       "agency": "근로복지공단",
-      "status": "error",
-      "message": "GET 실패: HTTP Error 400: Bad Request"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국산업인력공단",
@@ -471,6 +471,151 @@
       "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217647",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "한국수자원공사, WWF(세계자연기금)과 물·자연 통합 ...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141175&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "--> 코레일-국가철도공단, ‘철도발전협력회의’ 개최 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=PEzcZTWSnPQUxRnA1Ks9JAiMeAaQRtvahcrvqReudSsjRsBTT5uQotTYIx54xrgM?key=911&bbsNo=199&nttNo=27560&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "--> 보도 한국수력원자력, 감사원 초청 '적극행정지원 현장 설명회' 개최 한국수력원자력, 감사원 초청 '적극행정지원 현장 설명회' 개최 - 감사원 윤승기 제2사무차장 특강, 사전컨설팅·면책제도 등 실무 활용법 전파 - 한국수력원자력(사장 김회천, 이하, 한수원)이 17일 경주 본사에서 감사원 윤승기 제2사무차장을 초청해 ‘적극행정지원 현장 설명회’를 개최했다. 이번 설명회는 임직원들이 사후 감사에 대한 부담을 덜고 소신껏 업무를 추진할 수 있는 ‘적극... 작성일 : 2026-11-17",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77786&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "--> 보도 체코 원자력 규제기관, 한국의 두코바니 원전 품질관리 현장 첫 점검 체코 원자력 규제기관, 한국의 두코바니 원전 품질관리 현장 첫 점검 - 계약 이후 최초...체코 원자력 규제기관 및 발주사 관계자 6명 참관 - 한국수력원자력(사장 김회천, 이하 한수원)이 체코 두코바니 원전 5·6호기 사업의 품질관리 활동을 체코 발주사 및 규제기관과 함께 점검하며 사업의 성공적인 이행을 위한 협력을 이어가고 있다. 한수원은 16일부터 18일까지 3일간 두산에너빌리티가 두코바니 원전... 작성일 : 2026-11-17",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77785&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "(11.16) KOEN 한국남동발전, 대학생봉사단과 10년째 지역사회 나...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64262",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "(11.16) KOEN 한국남동발전, 인천·진주에 ‘탄소상쇄 도시숲’ 조...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64261",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "국민건강보험공단, “어르신 돌봄 기록 한눈에” … 요양원까지 전산관리 확대",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015130&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "국민건강보험공단, ‘2026년도 약가제도개선 제약사 설명회’ 개최",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015157&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "[보도자료] 고양이와 나누는 대화가 일기로··· 해외에서도 통했다! 한국장학재단 광주청년창업센터 입주기업 ‘이그마인드’, 일본·미국 진출 2026.11.17.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21502&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료",
+        "청년"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "캠코, 친환경 사회공헌 성과로 「2026 대한민국 ESG경영 혁신대상」 최우수상 수상 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29465&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "심평원 전북본부, 자원순환 수익으로기후위기 취약계층에 따뜻한 나눔 실천",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11971&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "공무원연금공단, 전·현직 공무원 대상 제주 ‘런케이션’ 프로그램 운영",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43767?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1149,6 +1294,18 @@
       ]
     },
     {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-11-12",
+      "title": "[보도자료] 근로복지공단, 제47회 노동자문화예술제 시상식 개최",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2267616&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "주택도시보증공사",
       "type": "공기업",
       "date": "2026-11-11",
@@ -1688,6 +1845,18 @@
       ]
     },
     {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-11-10",
+      "title": "[보도자료] 근로복지공단, 겨울옷 1,185벌로 이주노동자 겨울나기 돕는다",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2267424&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-11-09",
@@ -1928,6 +2097,43 @@
       "url": "https://www.geps.or.kr/notiCommunication_news/43753?curPage=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-11-09",
+      "title": "[보도자료] ‘산재보상 대리인 제도’ 정부 예산안 확정",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2267346&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-11-09",
+      "title": "[보도자료] 근로복지공단, 울산 자립준비청년에게 따뜻한 희망을 전하다",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2267345&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료",
+        "청년"
+      ]
+    },
+    {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-11-09",
+      "title": "[보도자료] 근로복지공단, 방송연기자 축제 찾아 예술인 고용산재보험 안내",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2267260&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -3037,6 +3243,18 @@
       ]
     },
     {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-11-03",
+      "title": "[보도자료] \"공정하고 투명한 업무수행\"... 근로복지공단 박승흡 이사장, 추혜선 상임감사 직무청렴계약 체결",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2266866&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국철도공사",
       "type": "공기업",
       "date": "2026-11-02",
@@ -4086,6 +4304,18 @@
       ]
     },
     {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "[보도자료] AI로 산재 요양기간 심사 더 신속하게... 근로복지공단, '공공기관 AI 혁신 성과대회'서 'AI 혁신상' 수상",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2266420&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-10-27",
@@ -5067,6 +5297,18 @@
       ]
     },
     {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-10-21",
+      "title": "[보도자료] 근로복지공단, 농어촌 학생들의 꿈에 힘 보탠다",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2265712&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국철도공사",
       "type": "공기업",
       "date": "2026-10-20",
@@ -5844,6 +6086,18 @@
       ]
     },
     {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-10-15",
+      "title": "[보도자료] 근로복지공단이 연구·개발한 의족, 레드닷 디자인 어워드 2026 ‘베스트 오브 더 베스트’ 수상",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2265301&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-10-14",
@@ -5935,6 +6189,18 @@
       "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29610",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "근로복지공단",
+      "type": "준정부기관",
+      "date": "2026-10-14",
+      "title": "[보도자료] 근로복지공단, 이주노동자의 안정적인 지역사회 정착 지원",
+      "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2265183&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "comwel.or.kr",
       "tags": [
         "보도자료"
       ]

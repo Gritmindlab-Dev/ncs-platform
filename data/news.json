@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T08:01:52.483547+00:00",
+  "generatedAt": "2026-11-17T21:02:38.004576+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 20,
-  "itemCount": 1546,
+  "successfulAgencyCount": 18,
+  "itemCount": 1550,
   "health": [
     {
       "agency": "한국전력공사",
@@ -98,8 +98,8 @@
     },
     {
       "agency": "근로복지공단",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: HTTP Error 400: Bad Request"
     },
     {
       "agency": "한국산업인력공단",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: HTTP Error 404: Not Found"
     },
     {
       "agency": "예금보험공사",
@@ -616,6 +616,43 @@
       "url": "https://www.geps.or.kr/notiCommunication_news/43767?curPage=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "캠코, 친환경 사회공헌 성과로 「2026 대한민국 ESG경영 혁신대상」 최우수상 수상",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29465&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "한국장애인고용공단, 한국ESG학회와 장애인 고용촉진 및 ESG경영 확산을 위한 업무협약 체결",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217671",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "방한관광 2천만 시대 활짝 ... ‘대체불가 관광대국 대한민국’ 도약 다짐",
+      "url": "https://knto.or.kr/pressRelease/550942?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1852,6 +1889,18 @@
       "url": "https://www.comwel.or.kr/comwel/noti/pres.jsp?mode=view&article_no=2267424&board_wrapper=%2Fcomwel%2Fnoti%2Fpres.jsp&pager.offset=0&board_no=892",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "comwel.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-10",
+      "title": "--> 김태승 코레일 사장, 수능 앞두고 수도권철도 전력설비 점검",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=t11QBvBtT1HKAwtXaGhLB4I0tDEfVbCUhod5XEafDQg9AoR1TLMvXhDjNbwS88Jh?key=911&bbsNo=199&nttNo=27541&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

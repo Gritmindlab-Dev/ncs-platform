@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T07:36:49.407807+00:00",
+  "generatedAt": "2026-11-18T20:40:32.549290+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1573,
+  "itemCount": 1577,
   "health": [
     {
       "agency": "한국전력공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국가스안전공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 15
     },
     {
       "agency": "한국광해광업공단",
@@ -665,6 +665,43 @@
       "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9342",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-18",
+      "title": "양승조 한국수자원공사 사장, 취임 첫 행보로 용인 반도...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141181&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-18",
+      "title": "--> 코레일, “수험생 위해 달린다”…논술까지 안전 수송에 ‘총력’ 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=OhybIBp2acLDoKWaR7Iofqxv40BgIsloK6wHgPmio1pPlykDTnNdrWhGUaN1DJ8J?key=911&bbsNo=199&nttNo=27565&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "‘첫눈 내린 K-굿즈 마을’ DDP에 역대 최대 관광기념품 축제 펼쳐진다",
+      "url": "https://knto.or.kr/pressRelease/550943?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1578,6 +1615,18 @@
       "type": "공기업",
       "date": "2026-11-12",
       "title": "한전KPS, ESG 평가 5년 연속 ‘A등급’ 달성 새 글 2026-11-12",
+      "url": "https://www.kps.co.kr/web/Board/47803/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-12",
+      "title": "한전KPS, ESG 평가 5년 연속 ‘A등급’ 달성 2026-11-12",
       "url": "https://www.kps.co.kr/web/Board/47803/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",

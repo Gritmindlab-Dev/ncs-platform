@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T21:02:38.004576+00:00",
+  "generatedAt": "2026-11-18T07:36:49.407807+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1550,
+  "itemCount": 1573,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: HTTP Error 404: Not Found"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 10
+      "itemCount": 9
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -293,8 +293,8 @@
     },
     {
       "agency": "한국관광공사",
-      "status": "ok",
-      "itemCount": 15
+      "status": "error",
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국광해광업공단",
@@ -463,6 +463,212 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-18",
+      "title": "한국수자원공사, 민·관·학·연 50여 개 기관과 ‘수상...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141179&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-18",
+      "title": "--> 코레일, 열차 운행 중단 없이 설치하는 ‘조립식 피암터널’ 개발 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=DHOVYayShJoIorRLqX1so19eLysKMBMUFiO4mabKRyAPZtIzTdJdr8WbdQLryucK?key=911&bbsNo=199&nttNo=27564&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국민건강보험공단, 「건강보험 미가입 사업장 가입 강조기간」 운영",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015195&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "건보공단·서울특별시의사회, “불법개설기관 근절은 공동의 과제” 공감",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015194&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "심평원, 하나은행과 함께 ‘1사1촌 김장김치 나눔행사’ 개최",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11975&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "심평원 대전충청본부, 유성구 골목상권 활성화 위해 지역기관과 협력",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11974&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "청소년 메틸페니데이트 처방 최근 5년간 2.8배 증가… 8월 많고 12월 적어",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11973&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "심평원 경기남부본부, ‘라라워시’ 다회용 컵 이용 확대로 친환경 ESG 실천",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11972&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, 관광진흥 유공 대전광역시장 표창 수상",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9350",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, 암생존자와 숲에서 나눈 회복의 시간",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9349",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, 주거취약계층 생활숲 산림복지 서비스 운영",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9348",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, 미래세대 숲교육 활성화 공로로 표창 수상",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9347",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립익산치유의숲, 함라산 산림문화자간 활용 특화프로그램 운영",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9346",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원에서 찾은 온전한 쉼, 특수교원 힐링 직무연수 성료",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9345",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, '전통과 유아 숲 놀이' 산림복지전문가 직무교육 운영",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9344",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, 중장년층 대상 '숲속 힐링캠프' 성료",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9343",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "국립대전숲체원, 제5회 전국 짜맞춤 기능경기대회 개최",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9342",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국장애인고용공단",
       "type": "준정부기관",
@@ -655,6 +861,31 @@
       "officialDomain": "knto.or.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "한전KPS, 자원순환‧나눔 실천 ‘굿사이클링 캠페인’ 성료 새 글 2026-11-17",
+      "url": "https://www.kps.co.kr/web/Board/47804/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-17",
+      "title": "공무원연금공단, 제주와 한 걸음 더 가까이… 임직원 대상 제주 역사·문화 교육",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43787?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료",
+        "교육"
       ]
     },
     {
@@ -1343,6 +1574,18 @@
       ]
     },
     {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-12",
+      "title": "한전KPS, ESG 평가 5년 연속 ‘A등급’ 달성 새 글 2026-11-12",
+      "url": "https://www.kps.co.kr/web/Board/47803/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "주택도시보증공사",
       "type": "공기업",
       "date": "2026-11-11",
@@ -1721,6 +1964,18 @@
       ]
     },
     {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-11",
+      "title": "한전KPS, ‘사회공헌‧홍보 콘텐츠’ 대국민 아이디어 공모 2026-11-11",
+      "url": "https://www.kps.co.kr/web/Board/47802/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-11-10",
@@ -1903,6 +2158,19 @@
       "officialDomain": "korail.com",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-10",
+      "title": "한전KPS, 야간보행자 교통안전 캠페인 시행 2026-11-10",
+      "url": "https://www.kps.co.kr/web/Board/47801/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {
@@ -2800,6 +3068,18 @@
       "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=IC1XUKyz2bCMRakJv3t8aewxApU6XVxfcDHMqw4fVaMSKm3YT2r9B6rO9uHbY0JB?key=911&bbsNo=199&nttNo=27500&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-05",
+      "title": "한전KPS, ‘피지컬AI 로봇’ 실증시연 마치고 정비현장 적용 시험 2026-11-05",
+      "url": "https://www.kps.co.kr/web/Board/47800/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
       "tags": [
         "보도자료"
       ]

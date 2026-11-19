@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T20:40:32.549290+00:00",
+  "generatedAt": "2026-11-19T07:34:25.733836+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1577,
+  "successfulAgencyCount": 19,
+  "itemCount": 1589,
   "health": [
     {
       "agency": "한국전력공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -464,6 +464,140 @@
   ],
   "items": [
     {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "--> 코레일, ESG 평가 최고등급 획득 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=keL23aavMzlGuK5DnKaf1idC3SpI1AoiKpkgBUVaiUniiF8ZTKZEjOkRCga6NgRr?key=911&bbsNo=199&nttNo=27573&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "--> ‘드론이 찍고 AI가 찾는다’…코레일, 철도시설 무인점검 실증 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=keL23aavMzlGuK5DnKaf1idC3SpI1AoiKpkgBUVaiUniiF8ZTKZEjOkRCga6NgRr?key=911&bbsNo=199&nttNo=27567&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "--> 코레일, 청각장애인 위한 ‘텔레코일존’ 24개역으로 확대 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=keL23aavMzlGuK5DnKaf1idC3SpI1AoiKpkgBUVaiUniiF8ZTKZEjOkRCga6NgRr?key=911&bbsNo=199&nttNo=27566&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "국민건강보험공단, ‘2026년 보건의료 빅데이터 활용 성과공유 심포지엄’ 성료",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015225&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "[보도자료] 취업 후 상환 학자금대출 지역대학 8구간이하 이자면제 시행 2026.11.19.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21504&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "예금보험공사",
+      "type": "기타공공기관",
+      "date": "2026-11-19",
+      "title": "예보, 강원대와 경제금융교육 업무협약 체결",
+      "url": "https://www.kdic.or.kr/di/medi/selectPbcrBbsDtl.do?bbsSeCd=bodo&cdVl=bodo&pstNo=60390",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kdic.or.kr",
+      "tags": [
+        "보도자료",
+        "교육",
+        "협약"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "공무원연금공단 김우호 이사장, 부산·대구지역 현장경영 나서",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43871?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "공무원연금공단 경인강원지부, 독거어르신·노숙인 위한 김장 나눔 펼쳐",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43852?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "공무원연금공단 대구지부, 정성 담은 김장김치로 이웃사랑 실천",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43817?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "한국장애인고용공단, 청렴 서포터즈 제4차 간담회 개최",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217743",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "장애인고용공단, 박람회 참여 지원으로 표준사업장 판로 확대",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217732",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-11-18",
@@ -702,6 +836,18 @@
       "url": "https://knto.or.kr/pressRelease/550943?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-18",
+      "title": "공무원연금공단 서울지부, 상록봉사단과 함께 김장 나눔으로 지역사회 이웃사랑 실천",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43763?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]

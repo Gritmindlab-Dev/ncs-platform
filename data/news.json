@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T07:34:25.733836+00:00",
+  "generatedAt": "2026-11-19T20:45:08.256570+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1589,
+  "successfulAgencyCount": 18,
+  "itemCount": 1593,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 8
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -593,6 +593,56 @@
       "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217732",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "--> 보도 한국수력원자력, 동료가 지키는 마음건강 안전망 '마인드키퍼' 출범 한국수력원자력, 동료가 지키는 마음건강 안전망 '마인드키퍼' 출범 - 발전소 현장 특성 고려한 동료 중심 심리 지원체계 구축 - - 현장에서 발견하고, 전문가로 연결하는 촘촘한 심리적 안전망 마련 - 한국수력원자력(사장 김회천, 이하 한수원)이 19일 한수원 방사선보건원에서 ‘마인드키퍼’ 발대식을 개최하고 공식 출범을 알렸다. ‘마인드키퍼’는 전문적인 심리 지원체계가 상대적으로 ... 작성일 : 2026-11-19",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77828&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "--> 보도 한국수력원자력, 직원 주도 업무혁신으로 원전 안전성과 운영 효율을 높인다 한국수력원자력, 직원 주도 업무혁신으로 원전 안전성과 운영 효율을 높인다 - 현장 중심 업무 혁신과 효율화로 비용 절감 기대 - 한국수력원자력(사장 김회천, 이하 한수원)은 16일 경주시 문무대왕연구소에서 원전 표준운영체계 리모델링(OSR, Operating System Remodeling) 프로젝트 성과발표회를 개최하고, 직원들이 주도적으로 발굴하고 개선한 업무혁신 성과를 공유했다. OSR 프로젝트는 ... 작성일 : 2026-11-19",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77807&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "미국 중간선거 후 미국·유럽 관세·산업정책 향방은 코트라, 「미국·유럽연합 통...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29735",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-19",
+      "title": "코트라-주한 무관단 협력, K-방산 기술 수출 설명회 높아진 K-방산 인지도에...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29733",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]

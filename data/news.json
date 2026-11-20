@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T20:45:08.256570+00:00",
+  "generatedAt": "2026-11-20T07:23:42.327307+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1593,
+  "successfulAgencyCount": 19,
+  "itemCount": 1608,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: <urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -463,6 +463,165 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "양승조 한국수자원공사 사장, “호남권 반도체 도약, 차...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141188&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "한국수자원공사, 반도체 생명수 ‘초순수’ 국내 기술 완...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141187&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "한국수자원공사, 기후테크 산업 저변 넓히는 실효적 지원...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141186&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "HUG 최종원 사장 직무대행, 든든전세주택 현장 점검…전세시장 불안 해소 ...",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38713&t_title=게시물 읽기 (HUG 최종원 사장 직무대행, 든든전세주택 현장 점검…전세시장 불안 해소 및 무주택 서민 주거 안정을 위한 대응)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "주택도시보증공사",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "주택도시보증공사(HUG), 하나자산신탁 등과 전월세 안심신탁 활성화를 위 ...",
+      "url": "https://www.khug.or.kr/hug/web/cs/no/csno000006.jsp?id=45&mode=S&currentPage=1&articleId=38712&t_title=게시물 읽기 (주택도시보증공사(HUG), 하나자산신탁 등과 전월세 안심신탁 활성화를 위한 업무협약 체결)",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khug.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "--> 보도 한국수력원자력, 원전 핵심 전기설비 통합 워크숍 개최로 종합 엔지니어링 역량 결집 한국수력원자력, 원전 핵심 전기설비 통합 워크숍 개최로 종합 엔지니어링 역량 결집 - 산학연 융합, 현장·기술·사람을 잇는 협력 확대로 원전 안전성과 신뢰성을 높여 - 한국수력원자력(사장 김회천, 이하 한수원)이 19일과 20일 양일간 한수원 중앙연구원에서 ‘2026 원전 핵심 전기설비 통합 워크숍’을 개최했다. 이번 워크숍에는 한수원 현장 엔지니어를 비롯... 작성일 : 2026-11-20",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77830&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "--> 보도 한국수력원자력, 체코 두코바니 원전 냉각탑 입찰 현장설명회 성료 한국수력원자력, 체코 두코바니 원전 냉각탑 입찰 현장설명회 성료 – 입찰 참여사 사업 이해도 제고... 두코바니 원전사업 이행 본격화 - – 한국·체코 기업 간 협력 확대 등 공급망 구축 박차 - 한국수력원자력(사장 김회천, 이하 한수원)이 체코 두코바니 원전에 적용할 냉각탑 입찰과 관련해 잠재공급사 대상 현장설명회를 성공적으로 마무리했다. 지난 18일부터 19일까지(현지시간)... 작성일 : 2026-11-20",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77829&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "(11.20) KOEN 한국남동발전, 이현빈 사장 “에너지 산업의 미래,...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64267",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국남동발전",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "(11.18) KOEN 한국남동발전, 500MW 송산빛그린 건설사업 주요...",
+      "url": "https://www.koenergy.kr/kosep/fr/bo/board/view.do?menuCd=FN030905&ntcobSeq=64266",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "koenergy.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-20",
+      "title": "비어 있던 국유재산, 지역 자원순환 거점으로...캠코, 나라On 25호점 개소 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29488&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-20",
+      "title": "심평원 전북본부, 디지털 소외 없는 건강한 지역사회 위해 어르신 대상 눈높이 교육 실시",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11976&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국산림복지진흥원",
+      "type": "준정부기관",
+      "date": "2026-11-20",
+      "title": "중장년 일자리 산림복지서 찾다",
+      "url": "https://www.fowi.or.kr/user/bbs/bbsView.do?bbsManageId=23&bbsId=9352",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "fowi.or.kr",
+      "tags": [
+        "보도자료",
+        "일자리"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-20",
+      "title": "한국관광공사, 미국 글로벌 관광 시장서 K-관광 스타트업 혁신 기술 경쟁력 알려",
+      "url": "https://knto.or.kr/pressRelease/550946?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국철도공사",
       "type": "공기업",
@@ -1510,6 +1669,31 @@
       "url": "https://www.kibo.or.kr/main/board/boardType05.do?mode=view&articleNo=67932&article.offset=0&articleLimit=10",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kibo.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-13",
+      "title": "--> ‘사내 AI교수’가 만든 교육, ‘공공HRD’ 경연서 통했다…코레일 2관왕",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=wZA0BpM5XaIXNyrxdCq7MTaUr11KIkg3agfyazFay0TJctWwTBaGQFrmdoVulRI8?key=911&bbsNo=199&nttNo=27548&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-13",
+      "title": "--> 코레일, 전주역서 ‘철도문화전’ 개최…첫 전국 순회전",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=wZA0BpM5XaIXNyrxdCq7MTaUr11KIkg3agfyazFay0TJctWwTBaGQFrmdoVulRI8?key=911&bbsNo=199&nttNo=27547&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T20:30:14.098270+00:00",
+  "generatedAt": "2026-11-21T07:16:38.540172+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1614,
+  "itemCount": 1617,
   "health": [
     {
       "agency": "한국전력공사",
@@ -24,7 +24,7 @@
     {
       "agency": "한국철도공사",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 10
     },
     {
       "agency": "한국토지주택공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -173,8 +173,8 @@
     },
     {
       "agency": "건강보험심사평가원",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: HTTP Error 404: "
     },
     {
       "agency": "공무원연금공단",
@@ -463,6 +463,42 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-21",
+      "title": "--> [보도참고] 경부선 화물열차 사고 관련 임시열차 운행 알림 (3보) 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=p59aaKLe9wrlttLwii0adfrMpax7d3kj8vgLAv6KZePrNqoGjxTXxUztMb6NXvDQ?key=911&bbsNo=199&nttNo=27584&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-21",
+      "title": "--> [보도참고] 경부선 천안~대전 구간 일반열차 운행 조정 (2보) 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=p59aaKLe9wrlttLwii0adfrMpax7d3kj8vgLAv6KZePrNqoGjxTXxUztMb6NXvDQ?key=911&bbsNo=199&nttNo=27583&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-21",
+      "title": "--> [보도참고] 경부선 천안~대전 구간 일반열차 운행 조정 알림 (1보) 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=p59aaKLe9wrlttLwii0adfrMpax7d3kj8vgLAv6KZePrNqoGjxTXxUztMb6NXvDQ?key=911&bbsNo=199&nttNo=27582&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국수자원공사",
       "type": "공기업",

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T07:49:34.791281+00:00",
+  "generatedAt": "2026-11-23T23:59:27.460824+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 18,
-  "itemCount": 1636,
+  "successfulAgencyCount": 19,
+  "itemCount": 1645,
   "health": [
     {
       "agency": "한국전력공사",
@@ -19,7 +19,7 @@
     {
       "agency": "한국도로공사",
       "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국철도공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "예금보험공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: Remote end closed connection without response"
+      "message": "POST 실패: HTTP Error 415: "
     },
     {
       "agency": "한국산림복지진흥원",
@@ -631,6 +631,103 @@
       "url": "https://knto.or.kr/pressRelease/550948?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-23",
+      "title": "한국수자원공사, 소방청과 재난 현장 담당자 합동 교육",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141191&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료",
+        "교육"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-23",
+      "title": "--> 코레일, 전동차 ‘출입문 무선점검’ 기술 개발 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=0GfmBsw2WFrcdA0U29Wbjmas3sw4JkM7iTUAWH4KR3E3J2NBjaya2DpCFnzvawGM?key=911&bbsNo=199&nttNo=27600&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-23",
+      "title": "--> 보도 한국수력원자력, 국제품질분임조 경진대회 14회 연속 금상 수상 한국수력원자력, 국제품질분임조 경진대회 14회 연속 금상 수상 - 3개 팀 참가해 모두 금상 수상 쾌거 - 한국수력원자력(사장 김회천, 이하 한수원) 품질분임조 3개 팀이 18일부터 20일까지 방글라데시 다카에서 개최된 ‘2026 국제품질분임조 경진대회(ICQCC)’에서 참가팀 모두 최고상인 금상을 수상하는 쾌거를 거뒀다. 특히, 원자력발전 회사로는 대회 최초로 14회 연속 금상을 수상하며, 한국 원전의 품질... 작성일 : 2026-11-23",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77850&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "K-소비재, 중국 프리미엄 유통망 타고 고가 시장 진출【11.23.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29752",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "한-인도 경제협력, 인도 동남부 관문까지 확산【11.23.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29751",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "코트라, '인베스트코리아 서밋' 이어 지역투자유치 가속화【11.23.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29750",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "중국 농업 현대화 수요, K-스마트팜 수출 기회로 8년 만에 한·중국 농업협력...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29749",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "공무원연금공단, 공직 특화 인공지능(AI) 심리상담 기술검증 착수",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43878?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1582,6 +1679,18 @@
       "tags": [
         "보도자료",
         "교육"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-17",
+      "title": "한전KPS, 자원순환‧나눔 실천 ‘굿사이클링 캠페인’ 성료 2026-11-17",
+      "url": "https://www.kps.co.kr/web/Board/47804/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
       ]
     },
     {

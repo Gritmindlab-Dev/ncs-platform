@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T19:47:51.112939+00:00",
+  "generatedAt": "2026-11-23T07:49:34.791281+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 18,
-  "itemCount": 1619,
+  "itemCount": 1636,
   "health": [
     {
       "agency": "한국전력공사",
@@ -58,8 +58,8 @@
     },
     {
       "agency": "한국수력원자력",
-      "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국남동발전",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: Remote end closed connection without response"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -463,6 +463,178 @@
     }
   ],
   "items": [
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-23",
+      "title": "한국수자원공사, KT와 물관리 분야 피지컬AI 구축 협...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141190&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-23",
+      "title": "--> 보도 한국수력원자력, 경수로형 사용후핵연료 건식저장시설 운영변경허가 현황 공유 워크숍 개최 한국수력원자력, 경수로형 사용후핵연료 건식저장시설 운영변경허가 현황 공유 워크숍 개최 - 건식저장사업 적기 추진 위한 운영변경허가 추진방안 모색 - 한국수력원자력(사장 김회천, 이하 한수원)이 국민이 신뢰할 수 있는 경수로형 건식저장시설 건설을 위해 규제기관 및 설계사와 함께 운영변경허가 추진 현황을 공유했다. 한수원은 23일 서울 마포구 라이즈호텔에서 ‘2026년 경수로형 사용후핵연료 건식저장시설 운영변경허가... 작성일 : 2026-11-23",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77865&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-23",
+      "title": "--> 보도 경주한수원여자축구단, 창단 10년 만에 첫 챔피언 등극 경주한수원여자축구단, 창단 10년 만에 첫 챔피언 등극 - 수원FC위민에 1대0 승리...네 차례 준우승 아쉬움 딛고 정상 등극 - 경주한수원여자축구단(이하 경주한수원)이 창단 10년 만에 WK리그 첫 우승을 차지하며 마침내 정상에 올랐다. 경주한수원은 지난 18일 오후 7시, 수원종합운동장에서 열린 수원FC위민과의 WK리그 챔피언결정전 2차전(최종전)에서 1대0으로 승리하며 최종 우승을 차지했다. 이날 ... 작성일 : 2026-11-23",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77847&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "국민건강보험공단, ‘의료급여부담금 공유회’ 개최",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015283&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "국민건강보험공단, ‘2026년 빅데이터 분석센터 신규 협약기관 추가 공모’ 실시",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015282&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료",
+        "협약"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "건보공단-병원협회, 보건의료 발전과 건강보험 지속가능성을 위해 소통과 협력 넓힌다",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015279&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "국민건강보험공단, ‘공짜 임플란트’ 등 불법 유인행위 예방 및 국민 건강 보호 나선다",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015278&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장학재단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "[보도자료] 한국장학재단, 보건복지부 주관 지역사회공헌 인정제 6년 연속 S등급(최고등급) 달성 2026.11.23.",
+      "url": "https://www.kosaf.go.kr/ko/info.do?mode=view&searchStr=&searchType=&page=1&ctgrId1=&ctgrId2=&seqNo=21518&pg=press01_02",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kosaf.go.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "전기안전공사, 지역아동 교육봉사 대학생에 장학금 수여",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172229&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "교육",
+        "안전"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "심평원, 「행복해지구나 이음(E) 프로젝트」 협력 확대 및 기부금 전달",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11981&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "심평원, 「2026년 보건의료 빅데이터 미래포럼」 개최",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11980&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "홍승권 심평원장, 재택의료협회 추계학술대회 축사서“재택의료 성과, 데이터·평가로 뒷받침” 의지 밝혀",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11979&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "한국장애인고용공단, AI를 통해 장애인 근로자의 안전한 일터 조성에 나서",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217791",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-23",
+      "title": "한국관광공사, 정부혁신 박람회서 주민 주도 지역관광 혁신성과 선보인다",
+      "url": "https://knto.or.kr/pressRelease/550948?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
     {
       "agency": "한국철도공사",
       "type": "공기업",
@@ -4145,6 +4317,19 @@
       ]
     },
     {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-03",
+      "title": "한국전기안전공사 ‘인공지능 윤리 가치 확산 참여 기관’ 선정",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172156&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
       "agency": "한국철도공사",
       "type": "공기업",
       "date": "2026-11-02",
@@ -5206,6 +5391,19 @@
       ]
     },
     {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-28",
+      "title": "한국전기안전공사, 인공지능 혁신 성과 잇따라 장관상 수상",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172120&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
       "agency": "한국수자원공사",
       "type": "공기업",
       "date": "2026-10-27",
@@ -5423,6 +5621,19 @@
       "officialDomain": "korail.com",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-10-27",
+      "title": "한국전기안전공사·한성대, 대학생과 환경,사회,투명(ESG) 아이디어 모색",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172118&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {

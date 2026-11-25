@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T22:33:40.806478+00:00",
+  "generatedAt": "2026-11-25T08:44:45.187696+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1674,
+  "successfulAgencyCount": 17,
+  "itemCount": 1694,
   "health": [
     {
       "agency": "한국전력공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 8
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -184,12 +184,12 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: Remote end closed connection without response"
     },
     {
       "agency": "한국산림복지진흥원",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국산업안전보건공단",
@@ -466,6 +466,201 @@
     {
       "agency": "한국수자원공사",
       "type": "공기업",
+      "date": "2026-11-25",
+      "title": "양승조 한국수자원공사 사장, ‘물안전 양극화 해소’ 경...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141209&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
+      "date": "2026-11-25",
+      "title": "한국수자원공사, 공공기관 최초로 중기부 ‘윈윈 아너스 ...",
+      "url": "https://www.kwater.or.kr/news/repoView.do?seq=141207&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kwater.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-25",
+      "title": "--> 코레일, ‘가족돌봄 청소년 지원사업’ 성과보고회 개최 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=rT3f15b1uy6fr7CL4nApIkd778ovgradPW8AMo1ufG1fRTovjmEkv1lLDLy6t5Rx?key=911&bbsNo=199&nttNo=27605&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-25",
+      "title": "--> 코레일·철도학회, ‘미래 철도 학술세미나’ 개최 새글",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=rT3f15b1uy6fr7CL4nApIkd778ovgradPW8AMo1ufG1fRTovjmEkv1lLDLy6t5Rx?key=911&bbsNo=199&nttNo=27604&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-25",
+      "title": "--> 보도 한국수력원자력, 사랑의 열매 '나눔명문기업' 골드회원 인증 한국수력원자력, 사랑의 열매 '나눔명문기업' 골드회원 인증 - 경주 5호·경북 32호로 나눔명문기업 명예의전당에 이름 올려 - - 취약계층 에너지 복지 증진부터 재난피해 복구까지 지속적인 나눔 실천- 한국수력원자력(사장 김회천, 이하 한수원)은 25일 경주시청에서 열린 ‘경주시 나눔명문기업 명예의 전당 제막식’에 참석해 경북사회복지공동모금회로부터 나눔명문기업 골드회원 인증패와 현판을 전달받았다. &n... 작성일 : 2026-11-25",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77907&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-25",
+      "title": "--> 보도 한국수력산업협회, ‘제3회 수력의 날 기념행사’ 개최 한국수력산업협회, ‘제3회 수력의 날 기념행사’ 개최 - 수력산업 경쟁력 높이고 협력 방안 모색 - 한국수력산업협회(회장 김회천, 이하 수력산업협회)가 25일 호텔나루 서울 엠갤러리에서 국내 수력산업계 관계자 및 산·학·연 전문가 등 200여 명이 참석한 가운데 ‘제3회 수력의 날 기념행사’를 개최했다. ‘수력의 날’은 2016년 11... 작성일 : 2026-11-25",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77905&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "국민건강보험공단",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "국민건강보험공단, 대한간호협회와 간호서비스 발전방안 논의",
+      "url": "https://www.nhis.or.kr/nhis/together/wbhaea01600m01.do?mode=view&articleNo=11015356&article.offset=0&articleLimit=10",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "nhis.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "예금보험공사",
+      "type": "기타공공기관",
+      "date": "2026-11-25",
+      "title": "금융시장 위기 대비체계를 한층 더 강화하였습니다.",
+      "url": "https://www.kdic.or.kr/di/medi/selectPbcrBbsDtl.do?bbsSeCd=bodo&cdVl=bodo&pstNo=60402",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kdic.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "캠코, 통영 해양보호구역에 잘피숲 조성... 탄소 저감 및 해양 생태계 복원 지원 새 글",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29500&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국전기안전공사",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "한국전기안전공사, 154kV 초고압 변전 실습설비 준공",
+      "url": "https://www.kesco.or.kr/bbs/selectBbs.do?bbs_code=MKB00002&bbs_seq=172243&currentPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kesco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "건강보험심사평가원",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "심평원, ‘1일 명예 진료심사평가위원장’에 서울대병원장 위촉",
+      "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11985&pageIndex=1&pageIndex2=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "공무원연금공단, 안전경영위원회 개최... “국민과 모든 종사자의 안전 강화”",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43885?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "공무원연금공단",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "공무원연금공단-JDC, '인공지능(AI) 감사·윤리 헌장' 공동 선포",
+      "url": "https://www.geps.or.kr/notiCommunication_news/43875?curPage=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "geps.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국장애인고용공단",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "한국장애인고용공단, 정부혁신 박람회에서 AI기반 보조공학기기 선보인다",
+      "url": "https://www.kead.or.kr/bbs/bodo/bbsView.do?menuId=MENU0893&bbsCnId=217843",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kead.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국관광공사",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "APEC 개최도시 중국 선전에 펼쳐진 ‘K-로컬여행’의 매력",
+      "url": "https://knto.or.kr/pressRelease/550956?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knto.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국석유공사",
+      "type": "공기업",
+      "date": "2026-11-25",
+      "title": "[보도자료] 한국석유공사, ´2026 올해의 에스엔에스..",
+      "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1012&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수자원공사",
+      "type": "공기업",
       "date": "2026-11-24",
       "title": "양승조 한국수자원공사 사장, 충주댐 찾아 “기후위기 시...",
       "url": "https://www.kwater.or.kr/news/repoView.do?seq=141204&brdId=KO26&orderByField=&orderByDirection=&s_mid=36",
@@ -708,6 +903,31 @@
       "officialDomain": "knto.or.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-24",
+      "title": "한전KPS, CEO 주관 고강도 재정건전화‧경영실적 제고 총력 새 글 2026-11-24",
+      "url": "https://www.kps.co.kr/web/Board/47839/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-24",
+      "title": "한전KPS, “축제장 전기안전 우리가 지킨다” 안심플러스 활동 새 글 2026-11-24",
+      "url": "https://www.kps.co.kr/web/Board/47838/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {
@@ -1307,6 +1527,18 @@
       ]
     },
     {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "한전KPS, 6년 연속 인권경영시스템 인증 취득 새 글 2026-11-20",
+      "url": "https://www.kps.co.kr/web/Board/47837/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
       "agency": "한국철도공사",
       "type": "공기업",
       "date": "2026-11-19",
@@ -1513,6 +1745,19 @@
       "tags": [
         "보도자료",
         "청년"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "한전KPS, 송전선로 안전 및 산불예방 활동 시행 새 글 2026-11-19",
+      "url": "https://www.kps.co.kr/web/Board/47836/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {

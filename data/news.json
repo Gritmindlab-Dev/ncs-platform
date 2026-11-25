@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T08:44:45.187696+00:00",
+  "generatedAt": "2026-11-25T21:50:39.094980+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 17,
-  "itemCount": 1694,
+  "successfulAgencyCount": 18,
+  "itemCount": 1698,
   "health": [
     {
       "agency": "한국전력공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 8
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -184,12 +184,12 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: Remote end closed connection without response"
+      "message": "POST 실패: HTTP Error 415: "
     },
     {
       "agency": "한국산림복지진흥원",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국산업안전보건공단",
@@ -654,6 +654,42 @@
       "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1012&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "캠코, 통영 해양보호구역에 잘피숲 조성... 탄소 저감 및 해양 생태계 복원 지원",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29500&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "세계은행 등 다자개발은행 5곳, 17개국 29개사 발주처 방한 코트라, 범정부...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29756",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-25",
+      "title": "원팀코리아, 중국 대표기업 33개사에 한국 투자매력 알려【11.25.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29755",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1752,6 +1788,19 @@
       "type": "공기업",
       "date": "2026-11-19",
       "title": "한전KPS, 송전선로 안전 및 산불예방 활동 시행 새 글 2026-11-19",
+      "url": "https://www.kps.co.kr/web/Board/47836/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료",
+        "안전"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-19",
+      "title": "한전KPS, 송전선로 안전 및 산불예방 활동 시행 2026-11-19",
       "url": "https://www.kps.co.kr/web/Board/47836/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",

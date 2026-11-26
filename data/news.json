@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T08:25:49.062200+00:00",
+  "generatedAt": "2026-11-26T21:41:17.298943+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1721,
+  "successfulAgencyCount": 18,
+  "itemCount": 1728,
   "health": [
     {
       "agency": "한국전력공사",
@@ -19,7 +19,7 @@
     {
       "agency": "한국도로공사",
       "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국철도공사",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -144,7 +144,7 @@
     {
       "agency": "대한무역투자진흥공사",
       "status": "ok",
-      "itemCount": 7
+      "itemCount": 10
     },
     {
       "agency": "한국농수산식품유통공사",
@@ -184,7 +184,7 @@
     {
       "agency": "정보통신기획평가원",
       "status": "error",
-      "message": "POST 실패: HTTP Error 415: "
+      "message": "POST 실패: Remote end closed connection without response"
     },
     {
       "agency": "한국산림복지진흥원",
@@ -701,6 +701,78 @@
       "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1013&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국수력원자력",
+      "type": "공기업",
+      "date": "2026-11-26",
+      "title": "--> 보도 한국수력원자력, '2026 올해의 상생기업대상' 대통령 표창 수상 한국수력원자력, '2026 올해의 상생기업대상' 대통령 표창 수상 - 중소기업의 지속가능한 성장 지원 및 상생협력 문화 확산 공로 인정 - 한국수력원자력(사장 김회천, 이하 한수원)이 26일 서울 코엑스 마곡에서 열린 중소벤처기업부 주관 ‘2026 올해의 상생기업대상’ 시상식에서 단체부문 대통령 표창을 수상했다. ‘올해의 상생기업대상’은 대기업과 중소기업 간 상생 협력을 촉진하고 동... 작성일 : 2026-11-26",
+      "url": "https://www.khnp.co.kr/main/selectBbsNttView.do?key=2289&bbsNo=71&nttNo=77967&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "khnp.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-26",
+      "title": "캠코, 구조조정 기업과 자본시장 연계를 위한 기업설명회 개최",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29503&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-26",
+      "title": "새출발기금 채무조정 신청 및 약정 현황(26.10월말 기준)",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29501&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-26",
+      "title": "K-의료바이오, 중앙아 신흥시장으로 수출다변화 박차 현지 건강보험 확대 및 약...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29764",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-26",
+      "title": "캐나다 세븐일레븐, 해외매장 인기 스낵 첫 도입 사례로 K-스낵 낙점 K-편의...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29763",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-26",
+      "title": "역대 최대인 해외 발주처 95개사 방한 코트라 「국제 공공조달 상담회」서 한국...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29758",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]
@@ -1809,6 +1881,18 @@
       "type": "공기업",
       "date": "2026-11-20",
       "title": "한전KPS, 6년 연속 인권경영시스템 인증 취득 새 글 2026-11-20",
+      "url": "https://www.kps.co.kr/web/Board/47837/detailView.do?pageIndex=1&menu=2468",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kps.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한전KPS",
+      "type": "공기업",
+      "date": "2026-11-20",
+      "title": "한전KPS, 6년 연속 인권경영시스템 인증 취득 2026-11-20",
       "url": "https://www.kps.co.kr/web/Board/47837/detailView.do?pageIndex=1&menu=2468",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "kps.co.kr",

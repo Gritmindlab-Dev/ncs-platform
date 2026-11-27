@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T08:42:55.649456+00:00",
+  "generatedAt": "2026-11-27T21:26:21.109166+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
-  "successfulAgencyCount": 19,
-  "itemCount": 1752,
+  "successfulAgencyCount": 17,
+  "itemCount": 1755,
   "health": [
     {
       "agency": "한국전력공사",
@@ -58,8 +58,8 @@
     },
     {
       "agency": "한국수력원자력",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: Remote end closed connection without response"
     },
     {
       "agency": "한국남동발전",
@@ -99,7 +99,7 @@
     {
       "agency": "근로복지공단",
       "status": "error",
-      "message": "GET 실패: HTTP Error 400: Bad Request"
+      "message": "GET 실패: HTTP Error 404: Not Found"
     },
     {
       "agency": "한국산업인력공단",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국가스안전공사",
@@ -703,6 +703,43 @@
       "url": "https://www.knoc.co.kr/sub11/sub11_1.jsp?page=1&num=1014&mode=view&field=&text=&bid=NEWS&ses=USERSESSION&psize=12",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "knoc.co.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-27",
+      "title": "지역기업 인재 확보 지원 위해 외국인 유학생 연결 코트라, 부울경·대구 경북권...",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29768",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료",
+        "인재"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-27",
+      "title": "글로벌 사우스 핵심 거점 아프리카, 경제 협력 박차【11.27.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29767",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "대한무역투자진흥공사",
+      "type": "준정부기관",
+      "date": "2026-11-27",
+      "title": "코트라-경제자유구역청, 일본에서 지역 외국인투자유치 협력【11.27.】",
+      "url": "https://www.kotra.or.kr/module/ntt/unity/selectNttDetailAjax.do?siteSeq=20000002134&bbsSeq=20000026822&pageIndex=1&menuSeq=41000022002&pageMode=B&sitecntntsSeq=20000004864&tabTyCode=dataManage&mngrAt=N&nttSeq=29766",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
       ]

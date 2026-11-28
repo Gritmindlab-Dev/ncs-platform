@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T21:26:21.109166+00:00",
+  "generatedAt": "2026-11-28T07:59:36.201698+00:00",
   "source": "verified official press-release boards only",
   "configuredAgencyCount": 35,
   "totalAgencyCount": 91,
   "successfulAgencyCount": 17,
-  "itemCount": 1755,
+  "itemCount": 1758,
   "health": [
     {
       "agency": "한국전력공사",
@@ -49,7 +49,7 @@
     {
       "agency": "한국가스공사",
       "status": "error",
-      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "한국지역난방공사",
@@ -59,7 +59,7 @@
     {
       "agency": "한국수력원자력",
       "status": "error",
-      "message": "GET 실패: Remote end closed connection without response"
+      "message": "게시판 구조에서 항목을 찾지 못함 (규칙 재확인 필요)"
     },
     {
       "agency": "한국남동발전",
@@ -118,8 +118,8 @@
     },
     {
       "agency": "기술보증기금",
-      "status": "ok",
-      "itemCount": 10
+      "status": "error",
+      "message": "GET 실패: <urlopen error timed out>"
     },
     {
       "agency": "예금보험공사",
@@ -128,8 +128,8 @@
     },
     {
       "agency": "한국자산관리공사",
-      "status": "error",
-      "message": "GET 실패: <urlopen error timed out>"
+      "status": "ok",
+      "itemCount": 10
     },
     {
       "agency": "한국가스안전공사",
@@ -742,6 +742,19 @@
       "officialDomain": "kotra.or.kr",
       "tags": [
         "보도자료"
+      ]
+    },
+    {
+      "agency": "한국자산관리공사",
+      "type": "준정부기관",
+      "date": "2026-11-27",
+      "title": "캠코, 협력업체와 안전한 일터 조성... 관리 사업장 ‘위험성평가 인정’ 획득",
+      "url": "https://www.kamco.or.kr/portal/bbs/view.do?bIdx=29504&mId=0701030000&ptIdx=282",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "kamco.or.kr",
+      "tags": [
+        "보도자료",
+        "안전"
       ]
     },
     {
@@ -1958,6 +1971,30 @@
       "url": "https://www.hira.or.kr/bbsDummy.do?pgmid=HIRAA020041000100&brdScnBltNo=4&brdBltNo=11978&pageIndex=1&pageIndex2=1",
       "source": "기관 공식 보도자료 게시판",
       "officialDomain": "hira.or.kr",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-21",
+      "title": "--> [보도참고] 경부선 화물열차 사고 관련 임시열차 운행 알림 (3보)",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=NDfEmL5Z0bLGxamyu7CJbaWc1bJrnBBdNQoCo7RzgeSWUD1FjTlPFJwdjR6jdPyA?key=911&bbsNo=199&nttNo=27584&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
+      "tags": [
+        "보도자료"
+      ]
+    },
+    {
+      "agency": "한국철도공사",
+      "type": "공기업",
+      "date": "2026-11-21",
+      "title": "--> [보도참고] 경부선 천안~대전 구간 일반열차 운행 조정 (2보)",
+      "url": "https://info.korail.com/info/selectBbsNttView.do;jsessionid=NDfEmL5Z0bLGxamyu7CJbaWc1bJrnBBdNQoCo7RzgeSWUD1FjTlPFJwdjR6jdPyA?key=911&bbsNo=199&nttNo=27583&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&pageIndex=1",
+      "source": "기관 공식 보도자료 게시판",
+      "officialDomain": "korail.com",
       "tags": [
         "보도자료"
       ]
